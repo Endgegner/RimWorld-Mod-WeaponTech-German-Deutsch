@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+   <!--<Gunsmithing.label>Schie&#223;pulver</Gunsmithing.label>
+   <Gunsmithing.description>Erm&#246;glicht das Bauen erster Vorderlader durch die Schmiede oder im Mechanik-Bereich.</Gunsmithing.description>
+   <BlowbackOperation.label>R&#252;cksto&#223;verringerung</BlowbackOperation.label>
+   <BlowbackOperation.description>Erh&#246;ht die Feuerrate signifikant und erm&#246;glicht dadurch den Bau besserer Schusswaffen.</BlowbackOperation.description>
+   <GasOperation.label>Wiederholungsmechanismen</GasOperation.label>
+   <GasOperation.description>Erweitert den Bereich der Waffentechnik speziell in ihrer Konstruktionsweise.</GasOperation.description>
+   <Optics.label>Optische Aufs&#228;tze und Erweiterungen</Optics.label>
+   <Optics.description>Lerne wie man Aufs&#228;tze und Erweiterungen zur Sichtvergr&#246;&#223;erung f&#252;r Gewehre anfertigt.</Optics.description>
+   <PrecisionRifling.label>Selbstlader und Automatismen</PrecisionRifling.label>
+   <PrecisionRifling.description>Lerne wie man selbst komplexeste Gewehre konstruiert.</PrecisionRifling.description>
+   <ChargedShot.label>Magnetisch verst&#228;rkte Projektile</ChargedShot.label>
+   <ChargedShot.description>Verschaffe dir einen Vorteil durch magnetisches Unterst&#252;tzungsfeuer der Gauss.</ChargedShot.description>-->
+   <Fuses.label>Z&#252;nder</Fuses.label>
+   <Fuses.description>Erlerne wie man chemische sowie mechanische Z&#252;nder f&#252;r Sprengstoff herstellt. Erlaubt das Herstellen von Granateng&#252;rteln und M&#246;rserh&#252;lsen.</Fuses.description>
+   <NNEMP.label>EMP</NNEMP.label>
+   <NNEMP.description>Benutze ein elektromagnetischen Puls um s&#228;mtliche Elektronik in einem bestimmten Bereich auszuschalten. Erlaubt das Herstellen von EMP Granaten f&#252;r Soldat wie M&#246;rser.</NNEMP.description>
+   <GrenadeLaunchers.label>Kompressionstechnik</GrenadeLaunchers.label>
+   <GrenadeLaunchers.description>Handlich konstruierte Metallr&#246;hre um durch Luftdruck sensiblen Sprengstoff aus sicherer Distanz zu verschie&#223;en. Erlaubt das Herstellen von Granatwerfern.</GrenadeLaunchers.description>
+   <SolidRocketMotors.label>Solide Raketenmotoren</SolidRocketMotors.label>
+   <SolidRocketMotors.description>Erh&#246;ht die effektive Reichweite und Geschwindigkeit von Sprengk&#246;pfen, indem man sie auf soliden Raketenmotoren platziert.</SolidRocketMotors.description>
+   <!--<MultibarrelWeapons.label>Mehrfachl&#228;ufe und Trommelwaffen</MultibarrelWeapons.label>
+   <MultibarrelWeapons.description>Erlerne wie man tragbare Trommelwaffen und Gatling-Maschinengewehre konstruiert.</MultibarrelWeapons.description>-->
+   <BrushlessMotors.label>Motorentechnik</BrushlessMotors.label>
+   <BrushlessMotors.description>Durch die Entwicklung eines b&#252;rstenlosen Motors werden die Tr&#228;ume von einer Waffe, die 6000 Kugeln pro Minute verschie&#223;t, endlich zur Realit&#228;t.</BrushlessMotors.description>
+</LanguageData>

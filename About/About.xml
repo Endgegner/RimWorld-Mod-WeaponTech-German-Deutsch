@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Weapon Tech [DE/GER]</name>
+	<author>Trunken</author>
+  <supportedVersions>
+        <li>1.0</li>
+</supportedVersions>
+	<description>Deutsch &#220;bersetzung des Weapon Tech Mods, der Waffen nach technologischem Stadium gliedert und ins Spiel integriert. Beginnend mit antiken Zunderbüchsen und Luntenschlosspistolen über Sturmgewehren aus längst vergessenen Kriegen, entwickelt der Spieler zum Ende hin hochmoderne Gauss Waffen. Es sind auch einige nette Extras inkludiert, die es zu entdecken gilt.\n\nDiese ins deutsche &#252;bersetzte Version achtet darauf Duplikate durch Community-Mods zu vermeiden und so eine harmonische Basis für andere Waffen-Addons zu bilden.\n\nZu den unterstützten Erweiterungen zählen u.a. Dead Goat's WeaponPack und SimpleWeapons.\n\nAchtung: Weapon Tech muss zusätzlich installiert werden und sollte in der Mod-Liste vor dem German Patch ausgeführt werden. Zuerst Weapon Tech, dann den German Patch laden.\n\nLink zum Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1542854752 (Author: Janson)\n\nTranslated by Endgegner</description>
+</ModMetaData>
