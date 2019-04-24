@@ -7,7 +7,7 @@ Deutsch Übersetzung des Weapon Tech Mods, der Waffen nach technologischem Stadi
 
 Diese ins deutsche übersetzte Version achtet darauf Duplikate durch Community-Mods zu vermeiden und so eine harmonische Basis für andere Waffen-Addons zu bilden.
 
-Revised: Ändert Namen wie Balanced Bullpup Rifle, Weighted Bullpup Carbine oder Modernised Arquebus zu Schultermagazin-Kompaktgewehr, Bataillons MG oder Modernisierte Donnerbüchse. Auch die Beschreibungen wurden verfeinert.
+Ändert Namen wie Balanced Bullpup Rifle, Weighted Bullpup Carbine oder Modernised Arquebus zu Schultermagazin-Kompaktgewehr, Bataillons MG oder Modernisierte Donnerbüchse. Auch die Beschreibungen wurden verfeinert.
 
 Zu den unterstützten Erweiterungen zählen u.a. Dead Goat's WeaponPack und SimpleWeapons. Kompatibilität mit Weapons+ besteht.
 
