@@ -15,7 +15,8 @@ Achtung: Weapon Tech muss zusätzlich installiert werden und sollte in der Mod-L
 
 Link zum Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1542854752 (Author: Janson)<br>
 
-Translated by Endgegner
+Mod by Janson<br>
+Translated by Endgegner<br>
 
 <b>License</b>
 - You may change, edit, modify the code and even take this whole thing as a template for your mods.
