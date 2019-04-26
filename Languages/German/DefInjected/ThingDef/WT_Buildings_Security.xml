@@ -1,27 +1,68 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-   <Turret_GatlingGunTurret.label>Gatling-Gun (B)</Turret_GatlingGunTurret.label>
-   <Turret_GatlingGunTurret.description>Befestigte Gatling-Gun, welche auf einem frei beweglichen Tripod f&#252;r h&#246;here Stabilit&#228;t montiert wurde.\n\nBenutzt einen Hebel um den Gewehrschacht mit Patronen zu f&#252;ttern.\n\nBen&#246;tigt nach einer Weile Stahl um den Lauf neu aufzuarbeiten.</Turret_GatlingGunTurret.description>
-   <Gun_GatlingGunTurret.label>Gatling-Gun (M)</Gun_GatlingGunTurret.label>
-   <Gun_GatlingGunTurret.description>Montierbares Gatling-Maschinengewehr nach antiken Muster befestigt auf einem Tripod.</Gun_GatlingGunTurret.description>
-   <Turret_LMGTurret.label>Supressionsgewehr (B)</Turret_LMGTurret.label>
-   <Turret_LMGTurret.description>Befestigtes leichtes Supressionsgewehr, welches auf einem frei beweglichen Tripod f&#252;r h&#246;here Stabilit&#228;t befestigt wurde.\n\nDer manuelle Einsatz des Tripods macht das Verfolgen von Zielen durch ein Querst&#252;ck an der Erh&#246;hung auf kurze Distanz unm&#246;glich.\n\nBen&#246;tigt nach einer Weile Stahl um den Lauf neu aufzuarbeiten.</Turret_LMGTurret.description>
-   <Gun_LMGTurret.label>Leichtes Supressionsgewehr (M)</Gun_LMGTurret.label>
-   <Gun_LMGTurret.description>Montierbares leichtes Supressionsgewehr, welches auf einem frei beweglichen Tripod f&#252;r h&#246;here Stabilit&#228;t befestigt wurde.\n\nDer manuelle Einsatz des Tripods macht das Verfolgen von Zielen durch ein Querst&#252;ck an der Erh&#246;hung auf kurze Distanz unm&#246;glich.\n\nBen&#246;tigt nach einer Weile Stahl um den Lauf neu aufzuarbeiten.</Gun_LMGTurret.description>
-   <Turret_VintageGPMGTurret.label>Maschinengewehr (B)</Turret_VintageGPMGTurret.label>
-   <Turret_VintageGPMGTurret.description>Befestigtes Mehrzweck-Maschinengewehr nach antiker Bauart f&#252;r jede Gebrauchslage, welches auf einem frei beweglichen Tripod f&#252;r h&#246;here Stabilit&#228;t befestigt wurde.\n\nDer manuelle Einsatz des Tripods macht das Verfolgen von Zielen durch ein Querst&#252;ck an der Erh&#246;hung auf kurze Distanz unm&#246;glich.\n\nBen&#246;tigt nach einer Weile Stahl um den Lauf neu aufzuarbeiten.</Turret_VintageGPMGTurret.description>
-   <Gun_VintageGPMGTurret.label>Mehrzweck-Maschinengewehr (M)</Gun_VintageGPMGTurret.label>
-   <Gun_VintageGPMGTurret.description>Montierbares Mehrzweck-Maschinengewehr nach antiker Bauart f&#252;r jede Gebrauchslage, befestigt auf einem frei beweglichen Tripod f&#252;r h&#246;here Stabilit&#228;t.</Gun_VintageGPMGTurret.description>
-   <Turret_GPMGTurret.label>Universaltripod (B)</Turret_GPMGTurret.label>
-   <Turret_GPMGTurret.description>Befestigtes Universalgewehr h&#246;chster Effizienz f&#252;r jede Gebrauchslage, welches auf einem frei beweglichen Tripod f&#252;r h&#246;here Stabilit&#228;t befestigt wurde.\n\nDer manuelle Einsatz des Tripods macht das Verfolgen von Zielen durch ein Querst&#252;ck an der Erh&#246;hung auf kurze Distanz unm&#246;glich.\n\nBen&#246;tigt nach einer Weile Stahl um den Lauf neu aufzuarbeiten.</Turret_GPMGTurret.description>
-   <Gun_GPMGTurret.label>Universalgewehr M60 (M)</Gun_GPMGTurret.label>
-   <Gun_GPMGTurret.description>Montierbares Universalgewehr (Typ: Rambo) h&#246;chster Effizienz f&#252;r jede Gebrauchslage, welches auf einem frei beweglichen Tripod f&#252;r h&#246;here Stabilit&#228;t befestigt wurde.</Gun_GPMGTurret.description>
-   <Turret_MinigunTurret.label>Minigun (B)</Turret_MinigunTurret.label>
-   <Turret_MinigunTurret.description>Eine donnernde Minigun, die auf einem frei beweglichen Tripod f&#252;r h&#246;here Stabilit&#228;t befestigt wurde.\n\nDer manuelle Einsatz des Tripods macht das Verfolgen von Zielen durch ein Querst&#252;ck an der Erhebung auf kurze Distanz unm&#246;glich.\n\nBen&#246;tigt nach einer Weile Stahl um den Lauf neu aufzuarbeiten.</Turret_MinigunTurret.description>
-   <Gun_MinigunTurret.label>Minigun (M)</Gun_MinigunTurret.label>
-   <Gun_MinigunTurret.description>Eine donnernde Minigun, die auf einem frei beweglichen Tripod f&#252;r h&#246;here Stabilit&#228;t befestigt wurde. Frei montierbar.</Gun_MinigunTurret.description>
-   <Turret_GMGTurret.label>Granatstreuer (B)</Turret_GMGTurret.label>
-   <Turret_GMGTurret.description>Befestigter Granatstreuer, der auf einem frei beweglichen Tripod f&#252;r h&#246;here Stabilit&#228;t befestigt wurde.\n\nBen&#246;tigt nach starker Belastung wiederholt Treibstoff.</Turret_GMGTurret.description>
-   <Gun_GMGTurret.label>Granatstreuer (M)</Gun_GMGTurret.label>
-   <Gun_GMGTurret.description>Montierbarer Granatstreuer, der auf einem frei beweglichen Tripod f&#252;r h&#246;here Stabilit&#228;t befestigt wurde.\n\nEin wahres Unikat f&#252;r jeden Waffennarr.\n\nBen&#246;tigt nach starker Belastung wiederholt Treibstoff.</Gun_GMGTurret.description>
+
+  <!-- Gatling Gun Base -->
+  <Turret_GatlingGunTurret.label>Gatling-Gun</Turret_GatlingGunTurret.label>
+  <Turret_GatlingGunTurret.description>Befestigte Gatling-Gun, welche auf einem frei beweglichen Tripod für höhere Stabilität montiert wurde.\n\nBenutzt einen Hebel um den Gewehrschacht mit Patronen zu füttern.\n\nBenötigt nach einer Weile Stahl um Lauf und Gehäuse neu aufzuarbeiten.</Turret_GatlingGunTurret.description>
+  <Turret_GatlingGunTurret_Blueprint.label>Gatling-Gun (Entwurf)</Turret_GatlingGunTurret_Blueprint.label>
+  <Turret_GatlingGunTurret_Blueprint_Install.label>Gatling-Gun (Entwurf)</Turret_GatlingGunTurret_Blueprint_Install.label>
+  <Turret_GatlingGunTurret_Frame.label>Gatling-Gun (wird gebaut)</Turret_GatlingGunTurret_Frame.label>
+  <Turret_GatlingGunTurret_Frame.description>Befestigte Gatling-Gun, welche auf einem frei beweglichen Tripod für höhere Stabilität montiert wurde.\n\nBenutzt einen Hebel um den Gewehrschacht mit Patronen zu füttern.\n\nBenötigt nach einer Weile Stahl um Lauf und Gehäuse neu aufzuarbeiten.</Turret_GatlingGunTurret_Frame.description>
+  <!-- Gatling Gun Turret -->
+  <Bullet_Gatling.label>Mini&#233;-Kugel</Bullet_Gatling.label>
+  <Gun_GatlingGunTurret.label>Gatling-Gun</Gun_GatlingGunTurret.label>
+  <Gun_GatlingGunTurret.description>Montierbares Gatling-Maschinengewehr nach antiken Muster befestigt auf einem Tripod.</Gun_GatlingGunTurret.description>
+
+  <!-- LMG Base -->
+  <Turret_LMGTurret.label>Supressionsgewehr</Turret_LMGTurret.label>
+  <Turret_LMGTurret.description>Befestigtes Supressionsgewehr zur Truppenunterstützung, welches auf einem frei beweglichen Tripod für höhere Stabilität montiert wurde.\n\nDer manuelle Einsatz des Tripods macht das Verfolgen von Zielen durch ein störendes Querstück an der Erhöhung auf kurze Distanz unmöglich.\n\nBenötigt nach einer Weile Stahl um Lauf und Gehäuse neu aufzuarbeiten.</Turret_LMGTurret.description>
+  <Turret_LMGTurret_Blueprint.label>Supressionsgewehr (Entwurf)</Turret_LMGTurret_Blueprint.label>
+  <Turret_LMGTurret_Blueprint_Install.label>Supressionsgewehr (Entwurf)</Turret_LMGTurret_Blueprint_Install.label>
+  <Turret_LMGTurret_Frame.label>Supressionsgewehr (wird gebaut)</Turret_LMGTurret_Frame.label>
+  <Turret_LMGTurret_Frame.description>Befestigtes Supressionsgewehr zur Truppenunterstützung, welches auf einem frei beweglichen Tripod für höhere Stabilität montiert wurde.\n\nDer manuelle Einsatz des Tripods macht das Verfolgen von Zielen durch ein störendes Querstück an der Erhöhung auf kurze Distanz unmöglich.\n\nBenötigt nach einer Weile Stahl um Lauf und Gehäuse neu aufzuarbeiten.</Turret_LMGTurret_Frame.description>
+  <!-- LMG Turret -->
+  <Gun_LMGTurret.label>Supressionsgewehr</Gun_LMGTurret.label>
+  <Gun_LMGTurret.description>Montierbares Supressionsgewehr zur Truppenunterstützung nach alter Bauweise welches auf einem Tripod befestigt wurde.</Gun_LMGTurret.description>
+
+  <!-- Vintage GPMG Base -->
+  <Turret_VintageGPMGTurret.label>Schnellfeuergewehr</Turret_VintageGPMGTurret.label>
+  <Turret_VintageGPMGTurret.description>Befestigtes Mehrzweck-Maschinengewehr nach antiker Bauart, welches auf einem frei beweglichen Tripod für höhere Stabilität befestigt wurde.\n\nDer manuelle Einsatz des Tripods macht das Verfolgen von Zielen durch ein Querstück an der Erhöhung auf kurze Distanz unmöglich.\n\nBenötigt nach einer Weile Stahl um Lauf und Gehäuse neu aufzuarbeiten.</Turret_VintageGPMGTurret.description>
+  <Turret_VintageGPMGTurret_Blueprint.label>Schnellfeuergewehr (Entwurf)</Turret_VintageGPMGTurret_Blueprint.label>
+  <Turret_VintageGPMGTurret_Blueprint_Install.label>Schnellfeuergewehr (Entwurf)</Turret_VintageGPMGTurret_Blueprint_Install.label>
+  <Turret_VintageGPMGTurret_Frame.label>Schnellfeuergewehr (wird gebaut)</Turret_VintageGPMGTurret_Frame.label>
+  <Turret_VintageGPMGTurret_Frame.description>Befestigtes Mehrzweck-Maschinengewehr nach antiker Bauart, welches auf einem frei beweglichen Tripod für höhere Stabilität befestigt wurde.\n\nDer manuelle Einsatz des Tripods macht das Verfolgen von Zielen durch ein Querstück an der Erhöhung auf kurze Distanz unmöglich.\n\nBenötigt nach einer Weile Stahl um Lauf und Gehäuse neu aufzuarbeiten.</Turret_VintageGPMGTurret_Frame.description>
+  <!-- Vintage GPMG Turret -->
+  <Gun_VintageGPMGTurret.label>Schnellfeuergewehr</Gun_VintageGPMGTurret.label>
+  <Gun_VintageGPMGTurret.description>Montierbares Mehrzweck-Maschinengewehr nach antiker Bauart welches auf einem Tripod befestigt wurde</Gun_VintageGPMGTurret.description>
+
+  <!-- GPMG Base -->
+  <Turret_GPMGTurret.label>Universaltripod</Turret_GPMGTurret.label>
+  <Turret_GPMGTurret.description>Befestigtes Universalgewehr höchster Effizienz für jede Gebrauchslage, welches auf einem frei beweglichen Tripod für höhere Stabilität befestigt wurde.\n\nDer manuelle Einsatz des Tripods macht das Verfolgen von Zielen durch ein Querstück an der Erhöhung auf kurze Distanz unmöglich.\n\nBenötigt nach einer Weile Stahl um Lauf und Gehäuse neu aufzuarbeiten.</Turret_GPMGTurret.description>
+  <Turret_GPMGTurret_Blueprint.label>Universaltripod (Entwurf)</Turret_GPMGTurret_Blueprint.label>
+  <Turret_GPMGTurret_Blueprint_Install.label>Universaltripod (Entwurf)</Turret_GPMGTurret_Blueprint_Install.label>
+  <Turret_GPMGTurret_Frame.label>Universaltripod (wird gebaut)</Turret_GPMGTurret_Frame.label>
+  <Turret_GPMGTurret_Frame.description>Befestigtes Universalgewehr höchster Effizienz für jede Gebrauchslage, welches auf einem frei beweglichen Tripod für höhere Stabilität befestigt wurde.\n\nDer manuelle Einsatz des Tripods macht das Verfolgen von Zielen durch ein Querstück an der Erhöhung auf kurze Distanz unmöglich.\n\nBenötigt nach einer Weile Stahl um Lauf und Gehäuse neu aufzuarbeiten.</Turret_GPMGTurret_Frame.description>
+  <!-- GPMG Turret -->
+  <Gun_GPMGTurret.label>Universalgewehr</Gun_GPMGTurret.label>
+  <Gun_GPMGTurret.description>Montierbares Universalgewehr höchster Effizienz das auf einem Tripod befestigt wurde.</Gun_GPMGTurret.description>
+
+  <!-- Minigun Base -->
+  <Turret_MinigunTurret.label>Minigun</Turret_MinigunTurret.label>
+  <Turret_MinigunTurret.description>Eine donnernde Minigun, die auf einem frei beweglichen Tripod für höhere Stabilität befestigt wurde.\n\nDer manuelle Einsatz des Tripods macht das Verfolgen von Zielen durch ein Querstück an der Erhebung auf kurze Distanz unmöglich.\n\nBenötigt nach einer Weile Stahl um Lauf und Gehäuse neu aufzuarbeiten.</Turret_MinigunTurret.description>
+  <Turret_MinigunTurret_Blueprint.label>Stationäre Minigun (Entwurf)</Turret_MinigunTurret_Blueprint.label>
+  <Turret_MinigunTurret_Blueprint_Install.label>Stationäre Minigun (Entwurf)</Turret_MinigunTurret_Blueprint_Install.label>
+  <Turret_MinigunTurret_Frame.label>Stationäre Minigun (wird gebaut)</Turret_MinigunTurret_Frame.label>
+  <Turret_MinigunTurret_Frame.description>Eine donnernde Minigun, die auf einem frei beweglichen Tripod für höhere Stabilität befestigt wurde.\n\nDer manuelle Einsatz des Tripods macht das Verfolgen von Zielen durch ein Querstück an der Erhebung auf kurze Distanz unmöglich.\n\nBenötigt nach einer Weile Stahl um Lauf und Gehäuse neu aufzuarbeiten.</Turret_MinigunTurret_Frame.description>
+  <!-- Minigun Turret -->
+  <Gun_MinigunTurret.label>Stationäre Minigun</Gun_MinigunTurret.label>
+  <Gun_MinigunTurret.description>Eine donnernde Minigun nach bewehrter Konstruktionsweise befestigt auf einem Tripod. Frei montierbar.</Gun_MinigunTurret.description>
+
+  <!-- GMG Base -->
+  <Turret_GMGTurret.label>Granatstreuer</Turret_GMGTurret.label>
+  <Turret_GMGTurret.description>Befestigter Granatstreuer, der auf einem frei beweglichen Tripod für höhere Stabilität befestigt wurde.\n\nEin wahres Unikat für jeden Waffennarr.\n\nBenötigt nach starker Belastung wiederholt Treibstoff.</Turret_GMGTurret.description>
+  <Turret_GMGTurret_Blueprint_Install.label>Granatstreuer (Entwurf)</Turret_GMGTurret_Blueprint_Install.label>
+  <!-- GMG Turret -->
+  <Gun_GMGTurret.label>Granatstreuer</Gun_GMGTurret.label>
+  <Gun_GMGTurret.description>Montierbarer Granatstreuer der auf einem Tripod befestigt wurde.\n\nEin wahres Unikat für jeden Waffennarr.</Gun_GMGTurret.description>
+
 </LanguageData>

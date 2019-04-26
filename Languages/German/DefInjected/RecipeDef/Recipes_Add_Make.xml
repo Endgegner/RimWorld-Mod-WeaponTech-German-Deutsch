@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
+  <Make_MeleeWeapon_Katana.label>Stelle ein Katana her</Make_MeleeWeapon_Katana.label>
+  <Make_MeleeWeapon_Katana.description>Stelle ein Katana her.</Make_MeleeWeapon_Katana.description>
+  <Make_MeleeWeapon_Katana.jobString>Waffenherstellung.</Make_MeleeWeapon_Katana.jobString>
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy, TableMachining -->
+  <Make_Gun_MatchlockPistol.label>Stelle eine Zunderbüchse her.</Make_Gun_MatchlockPistol.label>
+  <Make_Gun_MatchlockPistol.description>Stelle eine Zunderbüchse her.</Make_Gun_MatchlockPistol.description>
+  <Make_Gun_MatchlockPistol.jobString>Making matchlock pistol.</Make_Gun_MatchlockPistol.jobString>
+
+  <Make_Gun_MatchlockArquebus.label>Stelle eine Arkebuse her</Make_Gun_MatchlockArquebus.label>
+  <Make_Gun_MatchlockArquebus.description>Stelle eine Arkebuse her.</Make_Gun_MatchlockArquebus.description>
+  <Make_Gun_MatchlockArquebus.jobString>Waffenherstellung.</Make_Gun_MatchlockArquebus.jobString>
+
+  <Make_Gun_DoubleBarreledShotgun.label>Stelle eine doppelläufige Schrotflinte her</Make_Gun_DoubleBarreledShotgun.label>
+  <Make_Gun_DoubleBarreledShotgun.description>Stelle eine doppelläufige Schrotflinte her.</Make_Gun_DoubleBarreledShotgun.description>
+  <Make_Gun_DoubleBarreledShotgun.jobString>Waffenherstellung.</Make_Gun_DoubleBarreledShotgun.jobString>
+
+  <Make_Gun_BreechLoadingRifle.label>Stelle einen Hinterlader her</Make_Gun_BreechLoadingRifle.label>
+  <Make_Gun_BreechLoadingRifle.description>Stelle einen Hinterlader her.</Make_Gun_BreechLoadingRifle.description>
+  <Make_Gun_BreechLoadingRifle.jobString>Waffenherstellung.</Make_Gun_BreechLoadingRifle.jobString>
+
+  <Make_Gun_LeverActionRifle.label>Stelle einen Unterhebel-Repetierer her</Make_Gun_LeverActionRifle.label>
+  <Make_Gun_LeverActionRifle.description>Stelle einen Unterhebel-Repetierer her.</Make_Gun_LeverActionRifle.description>
+  <Make_Gun_LeverActionRifle.jobString>Waffenherstellung.</Make_Gun_LeverActionRifle.jobString>
+
+  <!-- Recipe Users: TableMachining -->
+  <Make_Gun_SubmachineGun.label>Stelle eine Uzi her</Make_Gun_SubmachineGun.label>
+  <Make_Gun_SubmachineGun.description>Stelle eine Uzi her.</Make_Gun_SubmachineGun.description>
+  <Make_Gun_SubmachineGun.jobString>Waffenherstellung.</Make_Gun_SubmachineGun.jobString>
+
+  <Make_Gun_BattleRifle.label>Stelle ein Feldkampfgewehr her</Make_Gun_BattleRifle.label>
+  <Make_Gun_BattleRifle.description>Stelle ein Feldkampfgewehr her.</Make_Gun_BattleRifle.description>
+  <Make_Gun_BattleRifle.jobString>Waffenherstellung.</Make_Gun_BattleRifle.jobString>
+
+  <Make_Gun_GrenadeLauncher.label>Stelle einen Granatwerfer her</Make_Gun_GrenadeLauncher.label>
+  <Make_Gun_GrenadeLauncher.description>Stelle einen Granatwerfer her.</Make_Gun_GrenadeLauncher.description>
+  <Make_Gun_GrenadeLauncher.jobString>Waffenherstellung.</Make_Gun_GrenadeLauncher.jobString>
+
+  <Make_Gun_DisposableLauncher.label>Stelle eine Bazooka her</Make_Gun_DisposableLauncher.label>
+  <Make_Gun_DisposableLauncher.description>Stelle eine Bazooka her.</Make_Gun_DisposableLauncher.description>
+  <Make_Gun_DisposableLauncher.jobString>Waffenherstellung.</Make_Gun_DisposableLauncher.jobString>
+
+  <Make_Gun_VintageAssaultRifle.label>Stelle ein Erstkontakt-Sturmgewehr her</Make_Gun_VintageAssaultRifle.label>
+  <Make_Gun_VintageAssaultRifle.description>Stelle ein Erstkontakt-Sturmgewehr her.</Make_Gun_VintageAssaultRifle.description>
+  <Make_Gun_VintageAssaultRifle.jobString>Waffenherstellung.</Make_Gun_VintageAssaultRifle.jobString>
+
+  <Make_Gun_AutomaticBattleRifle.label>Stelle ein modulares Gefechtsgewehr her</Make_Gun_AutomaticBattleRifle.label>
+  <Make_Gun_AutomaticBattleRifle.description>Stelle ein modulares Gefechtsgewehr her.</Make_Gun_AutomaticBattleRifle.description>
+  <Make_Gun_AutomaticBattleRifle.jobString>Waffenherstellung.</Make_Gun_AutomaticBattleRifle.jobString>
+
+  <Make_Gun_GaussPistol.label>Stelle eine Gauss Ladungspistole her</Make_Gun_GaussPistol.label>
+  <Make_Gun_GaussPistol.description>Stelle eine Gauss Ladungspistole her.</Make_Gun_GaussPistol.description>
+  <Make_Gun_GaussPistol.jobString>Waffenherstellung.</Make_Gun_GaussPistol.jobString>
+
+  <Make_Gun_GaussMachineGun.label>Stelle ein Gauss Schnellfeuergewehr her</Make_Gun_GaussMachineGun.label>
+  <Make_Gun_GaussMachineGun.description>Stelle ein Gauss Schnellfeuergewehr her.</Make_Gun_GaussMachineGun.description>
+  <Make_Gun_GaussMachineGun.jobString>Waffenherstellung.</Make_Gun_GaussMachineGun.jobString>
+
+  <Make_Gun_GaussSniper.label>Stelle eine Gauss Sniper her</Make_Gun_GaussSniper.label>
+  <Make_Gun_GaussSniper.description>Stelle ein Gauss Sniper her.</Make_Gun_GaussSniper.description>
+  <Make_Gun_GaussSniper.jobString>Waffenherstellung.</Make_Gun_GaussSniper.jobString>
+
+  <Make_Apparel_Osprey.label>Stelle eine Kompositweste her</Make_Apparel_Osprey.label>
+  <Make_Apparel_Osprey.description>Stelle eine Kompositweste her.</Make_Apparel_Osprey.description>
+  <Make_Apparel_Osprey.jobString>Rüstungsherstellung.</Make_Apparel_Osprey.jobString>
+
+</LanguageData>

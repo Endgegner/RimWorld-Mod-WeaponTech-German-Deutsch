@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cartridges -->
+  <Bullet_Lead.label>Bleikugel</Bullet_Lead.label>
+  <Bullet_Minie.label>Mini&#233;-Kugel</Bullet_Minie.label>
+  <Bullet_9x19mm.label>Kleinkaliber</Bullet_9x19mm.label>
+  <Bullet_45acp.label>Pistolenkugel</Bullet_45acp.label>
+  <Bullet_45Long.label>Pistolenkugel</Bullet_45Long.label>
+  <Bullet_12g.label>Schrotmunition</Bullet_12g.label>
+  <Bullet_556x45mmC.label>Zwischengliedkaliber Gewehrkugel</Bullet_556x45mmC.label>
+  <Bullet_556x45mmR.label>Zwischengliedkaliber Gewehrkugel</Bullet_556x45mmR.label>
+  <Bullet_762x39mmR.label>Zwischengliedkaliber Gewehrkugel</Bullet_762x39mmR.label>
+  <Bullet_762x51mm.label>Vollmantelgeschoss</Bullet_762x51mm.label>
+  <Bullet_762x63mm.label>Vollmantelgeschoss</Bullet_762x63mm.label>
+
+</LanguageData>

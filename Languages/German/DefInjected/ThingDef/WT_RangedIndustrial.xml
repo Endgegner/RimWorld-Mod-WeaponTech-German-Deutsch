@@ -1,155 +1,399 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-   <Gun_MatchlockPistol.label>Zunderb&#252;chse</Gun_MatchlockPistol.label>
-   <Gun_MatchlockPistol.description>Die Luntenschloss Pistole (auch Piratenhaken genannt) ist ein fr&#252;her Vorderlader der Waffengeschichte.\n\nSie feuert ein gewaltiges Geschoss ab, birgt jedoch gro&#223;e M&#228;ngel in Pr&#228;zision und rapider Schussfolge.</Gun_MatchlockPistol.description>
-   <Gun_MatchlockArquebus.label>Arkebuse</Gun_MatchlockArquebus.label>
-   <Gun_MatchlockArquebus.description>Die Luntenschloss Hakenb&#252;chse der fr&#252;hen Waffenhistorie.\n\nSie feuert ein riesiges Projektil mit mangelhafter Genauigkeit ab und macht jedes Nachladen zu echter Arbeit.</Gun_MatchlockArquebus.description>
-   <Gun_DoubleBarreledShotgun.label>Doppell&#228;ufige Schrotflinte</Gun_DoubleBarreledShotgun.label>
-   <Gun_DoubleBarreledShotgun.description>Eine doppell&#228;ufige Schrotflinte nach antikem Muster.\n\nW&#228;hrend die meisten ihre Bauart f&#252;r obsolet halten, erkennen doch alle ihre legend&#228;re Geschichte und einsch&#252;chternde Wirkung an.\n\nVerschie&#223;t die allt&#228;gliche Schrotmunition.</Gun_DoubleBarreledShotgun.description>
-   <Gun_BreechLoadingRifle.label>Hinterlader</Gun_BreechLoadingRifle.label>
-   <Gun_BreechLoadingRifle.description>Der Hinterlader ist eine Schusswaffe, deren Lauf an beiden Enden offen ist und bei denen das Projektil und die Treibladung durch die hintere &#214;ffnung in die Kammer gebracht werden. Sie wurde vor Tausenden von Jahren &#228;u&#223;erst erfolgreich gegen wilde St&#228;mme von Ureinwohnern bei der Kolonialisierung der zweiten Erdh&#228;lfte verwendet. Heute findet man diese Relikte vielleicht noch an W&#228;nden h&#228;ngend vor.\n\nFeuert f&#252;r Gewehrkaliber &#252;berdurchschnittlich gro&#223;e Patronen ab.</Gun_BreechLoadingRifle.description>
-   <!--<Gun_Revolver.label>Revolver</Gun_Revolver.label>
-   <Gun_Revolver.description>Pistole mit Trommel und Wechselmechanismus nach antikem Muster.\n\nEin zeitloser Klassiker, der am besten zu einem Staubmantel und einem Cowboy Hut getragen wird.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_Revolver.description>-->
-   <!--<Gun_PumpShotgun.label>Pumpgun</Gun_PumpShotgun.label>
-   <Gun_PumpShotgun.description>Die Pump-Action Shotgun nach antiker Vorlage.\n\nBis heute noch in Gebrauch aufgrund ihren guten Leistung zum kleinen Preis.\n\nVerschie&#223;t die allt&#228;gliche Schrotmunition, auf Wunsch auch eimerweise.</Gun_PumpShotgun.description>-->
-   <!--<Gun_LeverActionRifle.label>Unterhebel-Repetierer</Gun_LeverActionRifle.label>
-   <Gun_LeverActionRifle.description>Der Unterhebel-Repetierer wird durch einen Hebel unter dem Gewehrkolben durchgeladen.\n\nVom Banditen &#252;ber den Revolverhelden bis zum einfachen Farmer; Dieses alte Meisterwerk ist den Leuten als die Waffe bekannt, die den Wilden Westen gewann.\n\nFeuert Patronen im Pistolenkaliber ab, auf Wunsch auch eimerweise.</Gun_LeverActionRifle.description>-->
-   <!--<Gun_BoltActionRifle.label>Bolzenschussgewehr</Gun_BoltActionRifle.label>
-   <Gun_BoltActionRifle.description>Das Bolzenschussgewehr nach antiker Bauweise.\n\nEin Grundpfeiler zur Entwicklung von Siedlungen. Hervorragend geeignet zur Jagd. Durchdringt selbst dickste Elefantenhaut spielend leicht.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_BoltActionRifle.description>-->
-   <Gun_SniperRifle.label>Heckensch&#252;tze</Gun_SniperRifle.label>
-   <Gun_SniperRifle.description>Das Bolzenschuss-Pr&#228;zisionsgewehr (Typ: Heckensch&#252;tze) nach antiker Bauweise.\n\nHat als Merkmal zus&#228;tzlich ein Zielfernrohr verankert, welches seine Reichweite und Genauigkeit erh&#246;ht.\n\nFeuert &#252;ber erweiterte Kammern &#252;berdurchschnittlich gro&#223;e Patronen im Gewehrkaliber ab.</Gun_SniperRifle.description>
-   <Gun_Autopistol.label>Selbstlader</Gun_Autopistol.label>
-   <Gun_Autopistol.description>Die Halbautomatische Pistole nach antiker Bauart.\n\nFest dazugeh&#246;rig im Sortiment der milit&#228;rischen Ausr&#252;stung , hat diese Pistole sich als pflichtgetreuer Kamerad f&#252;r alle Soldaten seiner Zeit erwiesen.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_Autopistol.description>
-   <Gun_SubmachineGun.label>Uzi</Gun_SubmachineGun.label>
-   <Gun_SubmachineGun.description>Die Maschinenpistole (Typ: Uzi) mit hohem R&#252;cksto&#223; nach alter Machart.\n\nIhre simple Konstruktionsweise erm&#246;glicht eine leichte Wartung sowie eine kosteng&#252;nstige Herstellung.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_SubmachineGun.description>
-   <Gun_ChainShotgun.label>Autom. Schrotflinte</Gun_ChainShotgun.label>
-   <Gun_ChainShotgun.description>Die vollautomatische Schrotflinte mit h&#246;herer Reichweite nach altem Konzept.\n\nLeichter zu kontrollieren als man glauben mag, jedoch auch schwerer zu kontrollieren als man gerne h&#228;tte.\n\nFeuert mit gew&#246;hnlicher Schrotmunition.</Gun_ChainShotgun.description>
-   <!--<Gun_AssaultRifle.label>Standardisiertes Sturmgewehr</Gun_AssaultRifle.label>
-   <Gun_AssaultRifle.description>Das standardisierte Sturmgewehr mit guter Reichweite nach altem Entwurf.\n\nZun&#228;chst von Sondereinsatzkommandos der Armee verwendet, wurde ihr funktionales Design in etlichen Stadt- und Randwelten vervielf&#228;ltigt.\n\nFeuert Patronen im gr&#246;&#223;eren Zwischengliedkaliber ab.</Gun_AssaultRifle.description>-->
-   <Gun_BattleRifle.label>Feldkampfgewehr</Gun_BattleRifle.label>
-   <Gun_BattleRifle.description>Das Feldkampfgewehr (Battle Rifle) f&#252;r kurze Distanzen nach antiker Konstruktionsart. Unerwartet handlich und solide im Einsatz wurde es vorallem von Veteranen l&#228;ngst vergangener Kriege gesch&#228;tzt.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_BattleRifle.description>
-   <!--<Gun_LMG.label>Leichtes Supressionsgewehr</Gun_LMG.label>
-   <Gun_LMG.description>Das leichte Maschinengewehr nach alter Machart.\n\nGen&#228;hrt von einer sich selbst aufl&#246;senden Metallverbindung und einem erweiterten Magazin, ist dieses Maschinengewehr ideal dazu geeignet, Ziele mit erh&#246;hter Reichweite zu unterdr&#252;cken.\n\nFeuert Patronen im gr&#246;&#223;eren Zwischengliedkaliber ab.\n\nKann auf einem Tripod befestigt werden.</Gun_LMG.description>-->
-   <Gun_GrenadeLauncher.label>Granatwerfer</Gun_GrenadeLauncher.label>
-   <Gun_GrenadeLauncher.description>Der Granatwerfer nach altert&#252;mlicher Bauweise.\n\nIm Wesentlichen ein langes Rohr mit Schlagbolzen und Z&#252;ndmechanismus. Billig, aber effizient im Ergebnis.</Gun_GrenadeLauncher.description>
-   <!--<Gun_IncendiaryLauncher.label>Brandgeschosswerfer</Gun_IncendiaryLauncher.label>
-   <Gun_IncendiaryLauncher.description>Ein Granatwerfer mit Brandbombeng#252;rtel (Incendiary Launcher) nach alter Kunst der Waffenherstellung.\n\nLiebevoll auch der Brandstifter genannt.\n\nAchtung: Feuergefahr!</Gun_IncendiaryLauncher.description>-->
-   <Gun_DisposableLauncher.label>Bazooka</Gun_DisposableLauncher.label>
-   <Gun_DisposableLauncher.description>Ein Wegwerf-Raketenwerfer nach altert&#252;mlicher Vorlage f&#252;r den einmaligen Gebrauch bei milit&#228;rischen Eins&#228;tzen.\n\nEigentlich gegen gepanzerte Fahrzeuge und Bunker konzeptioniert, hat sich diese Waffe mit den richtigen Sprengk&#246;pfen versehen, auch als &#228;u&#223;erst effizient gegen Infanterie erwiesen.</Gun_DisposableLauncher.description>
-   <Gun_Minigun.label>Minigun</Gun_Minigun.label>
-   <Gun_Minigun.description>Eine schwere mehrl&#228;ufige Gatling-Gun.\n\nAngetrieben von einem elektrischen Motor, feuert sie Patronen-Kasetten im Zwischengliedkaliber ab und das ganze 60 mal pro Sekunde.\n\nWahrlich eine Macht auf dem Schlachtfeld mit man rechnen sollte.</Gun_Minigun.description>
-   <Gun_LargeRevolver.label>Schie&#223;pr&#252;gel</Gun_LargeRevolver.label>
-   <Gun_LargeRevolver.description>Ein gro&#223;er Revolver (Typ: Peacemaker) nach antiker Bauart.\n\nObwohl er f&#252;r seine schiere Kraft immer sehr begehrt wurde, hat dieser Revolver von aufklaffenden Zylindern bis hin zum beidh&#228;ndigen Kugelhagel eine fragw&#252;rdige Vergangenheit in Sachen Sicherheit.\n\nKlassischer Friedensstifter.\n\nKann auch als Kn&#252;ppel eingesetzt werden.\n\nFeuert gro&#223;e Patronen im Pistolenkaliber ab.</Gun_LargeRevolver.description>
-   <Gun_BoltActionPistol.label>Wumme</Gun_BoltActionPistol.label>
-   <Gun_BoltActionPistol.description>Eine abgetrennte Version des Bolzenschussgewehrs, runtergeschnitten auf Pistolengr&#246;&#223;e.\n\nWahrscheinlich von einem Gang-Mitglied einer weit entfernten Randwelt modifiziert, fehlen Frontteil und Kimme dieser Waffe, was sich in ungenaueren Sch&#252;ssen auf Entfernungen wiederspiegelt.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_BoltActionPistol.description>
-   <Gun_ServicePistol.label>Schnellschusspistole</Gun_ServicePistol.label>
-   <Gun_ServicePistol.description>Eine altes Muster einer Dienstpistole mit vorbildlich kurzem R&#252;cksto&#223;.\n\nVerwendet ein doppeltes Magazin, was eine h&#246;here Kapazit&#228;t gegen&#252;ber seinen Zeitgenossen erm&#246;glicht.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_ServicePistol.description>
-   <Gun_UrbanPistol.label>Stadtknarre</Gun_UrbanPistol.label>
-   <Gun_UrbanPistol.description>Eine vollautomatische Pistole (Urban Pistol) mit R&#252;cksto&#223; st&#228;dtischer Herkunft.\n\nWurde in Gang orientierten Stadtwelten so gew&#246;hnlich wie ein paar Schuhe getragen.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_UrbanPistol.description>
-   <!--<Gun_MachinePistol.label>Maschinenpistole</Gun_MachinePistol.label>
-   <Gun_MachinePistol.description>Die vollautomatische Maschinenpistole mit niedrigem R&#252;cksto&#223;. Bew&#228;hrt nach altem Muster.\n\nUrspr&#252;nglich f&#252;r die Polizei bei der Terrorismus-Bek&#228;mpfung gedacht, hat diese Waffe sich zu einem Favoriten von Kopfgeldj&#228;gern und S&#246;ldnern gemausert.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_MachinePistol.description>-->
-   <Gun_VintageMachinePistol.label>Tommy Gun</Gun_VintageMachinePistol.label>
-   <Gun_VintageMachinePistol.description>Eine vollautomatische Maschinenpistole (Typ: Thompson) mit niedrigem R&#252;cksto&#223; nach antikem Muster.\n\nAls eines der ersten Designs ihrer Art war diese kunstvolle Waffe das Produkt eines namhaften Gewehrschmieds und -Sammlers einer weit entfernten Glitzerwelt.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_VintageMachinePistol.description>
-   <!--<Gun_HeavySMG.label>Erweiterte Maschinenpistole</Gun_HeavySMG.label>
-   <Gun_HeavySMG.description>Eine vollautomatische Maschinenpistole mit ordentlich R&#252;cksto&#223; und Eigengewicht.\n\nUnausgereiftes Design, aber schnell und kosteneffizient zu bauen.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_HeavySMG.description>-->
-   <Gun_VintageSubmachineGun.label>Komplette Thompson</Gun_VintageSubmachineGun.label>
-   <Gun_VintageSubmachineGun.description>Eine vollautomatische Maschinenpistole (Typ: Thompson) mit sp&#252;rbaren R&#252;cksto&#223;, der jedoch von einer Auflage abgemindert werden kann.\n\nAls eines der ersten Designs ihrer Art birgt diese Waffe noch deutliche M&#228;ngel, umfasst daf&#252;r aber einen besonders gro&#223;es Magazin und gest&#252;tzte Bedienbarkeit.\n\nHeutzutage sind die meisten gefundenen Exemplare schlecht gemachte Replica. Die echten St&#252;cke werden in weit entfernten Glitzerwelten gesammelt.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_VintageSubmachineGun.description>
-   <Gun_BullpupPDW.label>Bullpup P90</Gun_BullpupPDW.label>
-   <Gun_BullpupPDW.description>Eine Maschinenpistole (Typ: FN P90) bei der sich Verschluss und Magazin hinter dem Griffst&#252;ck in der Schulterst&#252;tze befinden.\n\nDie Bullpup PDW wurde f&#252;r Spezialkartuschen verkammert, mit der sich spielend leicht K&#246;rperpanzerungen durchdringen lassen. Dies zusammen der extrem hohen Feuerrate und dem extra gro&#223;en Magazin sind der Beweis daf&#252;r, da&#223; Gr&#246;&#223;e keine Rolle spielt.\n\nHat als zus&#228;tzliche Besonderheit eine integrierte Reflektorsicht f&#252;r eine beschleunigte Zielerfassung.</Gun_BullpupPDW.description>
-   <Gun_PersonalisedBullpupPDW.label>Personalisierte Bullpup PDW</Gun_PersonalisedBullpupPDW.label>
-   <Gun_PersonalisedBullpupPDW.description>Eine personalisierte Schutzwaffe (Typ: Bullpup PDW) bei der sich Verschluss und Magazin hinter dem Griffst&#252;ck in der Schulterst&#252;tze befinden.\n\nDie Waffe wurde in einem Graffiti-Look verziert. Das Rosa schmerzt in den Augen.\n\nFeuert aus Spezialmagazinen mit hoher Penetration Patronen im Pistolenkaliber ab.</Gun_PersonalisedBullpupPDW.description>
-   <Gun_PolymerSubmachineGun.label>Polymer Maschinenpistole</Gun_PolymerSubmachineGun.label>
-   <Gun_PolymerSubmachineGun.description>Eine Maschinenpistole aus Polymer mit ged&#228;mpften R&#252;cksto&#223;.\n\nPrim&#228;r bei Fallschirmj&#228;gern zu finden, ist diese Waffe vorallem klein, leicht und handlich, ohne dabei an Feuerkraft einzub&#252;&#223;en.\n\nHat als besonderes Merkmal einen teleskopischen Aufsatz mit minimaler Sichtvergr&#246;&#223;erung.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_PolymerSubmachineGun.description>
-   <Gun_SawnOffShotgun.label>Abges&#228;gte Schrotflinte</Gun_SawnOffShotgun.label>
-   <Gun_SawnOffShotgun.description>Eine Schrottflinte nach historischer Bauweise mit abges&#228;gtem Lauf auf Pistolengr&#246;&#223;e gek&#252;rzt.\n\nWegen der gr&#246;&#223;ren Streuung und Handlichkeit gerne von Kriminellen jeglicher Rasse und Kredos verwendet.\n\nSchie&#223;t mit gebr&#228;uchlicher Schrotmunition.</Gun_SawnOffShotgun.description>
-   <Gun_LeverActionShotgun.label>Winchester</Gun_LeverActionShotgun.label>
-   <Gun_LeverActionShotgun.description>Eine Hinterlader-Schrotflinte (Typ: Winchester) nach uralter Vorlage.\n\nGern &#252;bersehen unter den Schrottflinten gleichwertiger Art ist diese schmucke Waffe dennoch ein brauchbarer Kandidat f&#252;r jeden Waffenliebhaber, gerade wegen der gewissen Vorz&#252;ge, die begabte Revolverhelden zu nutzen wissen.\n\nSchie&#223;t mit gebr&#228;uchlicher Schrotmunition.</Gun_LeverActionShotgun.description>
-   <Gun_AkimboLeverActionShotguns.label>Akimbo 2facher Ballermann</Gun_AkimboLeverActionShotguns.label>
-   <Gun_AkimboLeverActionShotguns.description>Zwei Hinterlader-Schrotflinten (Typ: Akimbo) nach historischer Bauart mit abges&#228;gtem Lauf auf &#252;berschaubare Pistolengr&#246;&#223;e gek&#252;rzt.\n\nViele glauben daran, da&#223; zwei verbundene Schrotflinten dieser Art dem Tr&#228;ger durch unglaubliche Reichweite, hohen Schaden und endlose Munition wundersame Macht verleihen. L&#228;cherlich.\n\nFeuert mit gebr&#228;uchlicher Schrotmunition.</Gun_AkimboLeverActionShotguns.description>
-   <Gun_SemiAutomaticShotgun.label>Halbautomatische Schrotflinte</Gun_SemiAutomaticShotgun.label>
-   <Gun_SemiAutomaticShotgun.description>Die halbautomatische Schrotflinte mit kr&#228;ftigem R&#252;cksto&#223;.\n\nF&#252;r das Milit&#228;r und die Polizei konzeptioniert, verf&#252;gt diese Waffe &#252;ber einen dualen Systemmodus, der zwischen Pumpmechanik und Halbautomatik schaltet.\n\nSchie&#223;t mit gebr&#228;uchlicher Schrotmunition.</Gun_SemiAutomaticShotgun.description>
-   <Gun_RiotShotgun.label>Mehrfachschuss-Schrotflinte</Gun_RiotShotgun.label>
-   <Gun_RiotShotgun.description>Eine Schrotflinte mit sich drehender Patronentrommel (Typ: Riot-Shotgun) nach alter Machart.\n\nDas erweiterte Magazin liegt in einem sich drehenden Zylinder und wird erst bei einer zweifacher Bet&#228;gigung ausgel&#246;st um die Wahrscheinlichkeit von Verletzungen bei nicht lethaler Munitionierung zu vermeiden.\n\nFeuert mit gebr&#228;uchlicher Schrotmunition.</Gun_RiotShotgun.description>
-   <Gun_RuggedCarbine.label>UMP-45 Rugged</Gun_RuggedCarbine.label>
-   <Gun_RuggedCarbine.description>Ein holpriger Karabiner (Typ: UMP-45) nach sehr alter Bauweise mit geriffeltem Geh&#228;use auf handliche Gr&#246;&#223;e konvertiert.\n\nDiese &#252;ppig ausgestatte Waffe wurde von vielen als Mittelding zwischen Kraft und Volumen gepriesen.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_RuggedCarbine.description>
-   <Gun_CompactCarbine.label>MP5 Compact</Gun_CompactCarbine.label>
-   <Gun_CompactCarbine.description>Ein Karabiner (Typ: Heckler &amp; Koch MP5) sehr alter Bauart mit Laufwickler-Verz&#246;gerung.\n\nVerf&#252;gt &#252;ber einen besonders kurzen Lauf und ist serienm&#228;&#223;ig mit einer Teleskop-Vorrichtung ausgestattet.\n\nSehr kompakt und handlich. Einfacher Magazinwechsel.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_CompactCarbine.description>
-   <Gun_CombatPDW.label>Combat PDW</Gun_CombatPDW.label>
-   <Gun_CombatPDW.description>Ein unglaublich vielseitiger Karabiner (Typ: Combat PDW) bei der sich Verschluss und Magazin hinter dem Griffst&#252;ck in der Schulterst&#252;tze befinden.\n\nDieses Exemplar stellt einen besonders pr&#228;gnanten Versuch dar, die Vorteile einer Maschinenpistole (Handlichkeit, Kosten) mit einer verh&#228;ltnism&#228;&#223;ig gro&#223;en Durchschlagskraft zu verbinden, die fast an die eines Sturmgewehres herankommt.\n\nBesonders effektiv auf kurze Distanzen.\n\nVerf&#252;gt &#252;ber Reflektorsicht und vertikalem Griff um die Zielerfassung zu beschleunigen.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_CombatPDW.description>
-   <Gun_WeightedBullpupCarbine.label>Bataillons MG</Gun_WeightedBullpupCarbine.label>
-   <Gun_WeightedBullpupCarbine.description>Ein schwerer vollausgestatteter Karabiner nach bewehrter Bauweise.\n\nDie Schultermagazin-Konfiguration samt kurzen Lauf machen diese Waffe extrem handlich, jedoch wird das ganze Gewicht dadurch auch unpraktischerweise nach hinten verteilt.\n\nDas serienm&#228;&#223;ig angebrachte Zielverbesserungssystem erh&#246;ht die Reichweite signifikant und ist nur eines der vielen Extras, die dieses beeindruckende Wunderwerk der damaligen Technik mit sich f&#252;hrt.</Gun_WeightedBullpupCarbine.description>
-   <Gun_ModernisedArquebus.label>Modernisierte Donnerb&#252;chse</Gun_ModernisedArquebus.label>
-   <Gun_ModernisedArquebus.description>Ein Vorderlader der fr&#252;hen Waffenhistorie mit zahlreichen Verbesserungen.\n\nScheinbar das Produkt eines vielleicht gelangweilten oder doch eher verr&#252;ckten Waffenschmieds.\n\nVerf&#252;gt unter anderem &#252;ber einen vergr&#246;&#223;ters Magazin, einen vertikalen Arm und Reflektorsicht zur Hilfestellung bei der Zielerfassung.</Gun_ModernisedArquebus.description>
-   <Gun_ImprovisedRifle.label>Improvisierte Kanone</Gun_ImprovisedRifle.label>
-   <Gun_ImprovisedRifle.description>Ein zusammengeschustertes Gewehr mit sattem R&#252;cksto&#223;.\n\nWird von Piraten und Au&#223;enweltern zum trainieren ihrer neuen Sch&#252;tzen verwendet.\n\nGef&#228;hrlicher f&#252;r den Anwender als f&#252;r den Anvisierten.\n\nFeuert eine verh&#228;ltnism&#228;&#223;ig armselig kleine Patronenkugel ab.</Gun_ImprovisedRifle.description>
-   <Gun_TurretRifle.label>Perkussionsgewehr</Gun_TurretRifle.label>
-   <Gun_TurretRifle.description>Fr&#252;hes Perkussionsgewehr mit rotierender Zylindertrommel.\n\nMehr eine Kuriosit&#228;t als eine zul&#228;ssige Form der Verteidigung. Dieser Typ nutzt eine vertikal angebrachte Zylindertrommel mit radialen Kammern gegen&#252;ber dem geraden Lauf. Trotz des Potenzials den Sch&#252;tzen bei Verwendung zu verst&#252;mmeln, verbleiben zahlreiche dieser antiken Objekte in den H&#228;nden weniger reicher oder technologisch begabter Gemeinschaften.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_TurretRifle.description>
-   <Gun_LargeLeverActionRifle.label>Friedensstifter</Gun_LargeLeverActionRifle.label>
-   <Gun_LargeLeverActionRifle.description>Ein m&#228;chtiges Gewehr mit Seitenhebel nach klassischer Blaupause, auch liebevoll die Wuchtbrumme genannt.\n\nBenutzt eine Magazinbox um die Spitzpunktkugeln in Gewehrkalibergr&#246;&#223;e sicher zu laden.</Gun_LargeLeverActionRifle.description>
-   <Gun_ConvertedBoltActionRifle.label>Konvertiertes Schie&#223;eisen</Gun_ConvertedBoltActionRifle.label>
-   <Gun_ConvertedBoltActionRifle.description>Ein selbstgemachtes Bolzenschuss-Gewehr der alten Schule.\n\nWurde fein s&#228;uberlich zur Halbautomatik umgebaut und hat nun ein deutlich gr&#246;&#223;eres Magazin sowie ein Pistolengriff f&#252;r besseren Halt. Zus&#228;tzlich werden die Bolzen &#252;ber einen Kanal mit Gas erneuert, der maschinell an der Seite der Waffe aufgearbeitet wurde.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_ConvertedBoltActionRifle.description>
-   <Gun_SportingRifle.label>Vollautomatik-Kampfgewehr</Gun_SportingRifle.label>
-   <Gun_SportingRifle.description>Ein Vollautomatik-Kampfgewehr mit Direktaufprall gebaut nach altem Muster.\n\nDiese Variante wurde in seiner abgespeckteren Form gerne von der Zivilbev&#246;lkerung genutzt. Ihr geschichtlicher Hintergrund ist jedoch milit&#228;rischer Natur.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_SportingRifle.description>
-   <Gun_VintageAssaultRifle.label>Erstkontakt-Sturmgewehr</Gun_VintageAssaultRifle.label>
-   <Gun_VintageAssaultRifle.description>Ein Sturmgewehr mit guter Reichweite nach altem Schemata.\n\nReplika eines der allerersten Sturmgewehre. Originale sind schwer zu finden und erzielen als echte Sammlerst&#252;cke einen hohen Preis auf dem interstellaren Schwarzmarkt.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_VintageAssaultRifle.description>
-   <Gun_RuggedAssaultRifle.label>AKM</Gun_RuggedAssaultRifle.label>
-   <Gun_RuggedAssaultRifle.description>Ein zuverl&#228;ssiges Sturmgewehr (Typ: Kalashnikov AKM) mit guter Reichweite nach alter Blaupause.\n\nWenn auch von seltener Begebenheit und nur vereinzelt, kommt es immernoch vor, das diese Einzelst&#252;cke bis zum heutigen Tage einwandfrei funktionieren. Ein Testament der Unempfindlichkeit dieses zeitlosen Designs.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_RuggedAssaultRifle.description>
-   <Gun_GoldPlatedRuggedAssaultRifle.label>Vergoldete AK-47</Gun_GoldPlatedRuggedAssaultRifle.label>
-   <Gun_GoldPlatedRuggedAssaultRifle.description>Ein vergoldetes Sturmgewehr (Typ: Kalashnikov AK-47) mit guter Reichweite nach alter Blaupause.\n\nEim Symbol des Wohlstands f&#252;r jene die Krieg wollen. Ka-Ching.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_GoldPlatedRuggedAssaultRifle.description>
-   <Gun_ModernisedRuggedAssaultRifle.label>Modernisiertes Sturmgewehr</Gun_ModernisedRuggedAssaultRifle.label>
-   <Gun_ModernisedRuggedAssaultRifle.description>Ein weiterentwickeltes Sturmgewehr mit hoher Reichweite und starker Feuerkraft nach einem alten Bauplan entwickelt.\n\nDer moderne Versuch einer alternden Legende neuen Glanz zu verleihen.\n\nFeuert Vollmantelgeschosse im Zwischengliedkaliber ab.</Gun_ModernisedRuggedAssaultRifle.description>
-   <Gun_ServiceRifle.label>Colt M4</Gun_ServiceRifle.label>
-   <Gun_ServiceRifle.description>Ein ausbalanciertes Sturmgewehr mit Direktaufprall nach einer alter Schablone angefertigt.\n\nFindet sich in den H&#228;nden unz&#228;hliger Soldaten zahlloser Welten wieder. Mit gutem Grund.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_ServiceRifle.description>
-   <Gun_BalancedBullpupRifle.label>Schultermagazin-Kompaktgewehr</Gun_BalancedBullpupRifle.label>
-   <Gun_BalancedBullpupRifle.description>Das gut ausbalancierte hebelverz&#246;gerte Sturmgewehr.\n\nDer Abwicklungsprozess der Waffe befindet sich hinter dem Ausl&#246;ser, ohne dabei die Werkl&#228;nge des Gewehrlaufes zu opfern, was es zu einer sehr kompakten und doch genauen Rarit&#228;t macht.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_BalancedBullpupRifle.description>
-   <Gun_ModernisedBullpupRifle.label>Bullpup SAR</Gun_ModernisedBullpupRifle.label>
-   <Gun_ModernisedBullpupRifle.description>Das hebelverz&#246;gerte Sturmgewehr (Typ: Bullpup SAR) mit optischen Hilfsmitteln nach alter Waffentechnik erschaffen.\n\nDas Bed&#252;rfnis seiner Nutzer nach mehr Aufs&#228;tzen und besserer Zielerfassung spiegeln sich in diesem Unikat der Waffengeschichte wieder. Gl&#252;cklicherweise war das Geld gut angelegt, denn noch Jahrhunderte nach dem Verschwinden des Herstellers wurden Varianten dieser Schusswaffe weiterverwendet.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_ModernisedBullpupRifle.description>
-   <Gun_LightCombatRifle.label>Multikaliber-Kampfgewehr</Gun_LightCombatRifle.label>
-   <Gun_LightCombatRifle.description>Das leichte Infanteriegewehr f&#252;r kurze Entfernungen nach alter Konstruktionsart.\n\nEine unglaublich flexible Waffenplattform, die vorallem bei S&#246;ldnern und Sicherheitskr&#228;ften sehr beliebt war.\n\nBringt Reflektorsicht und einen vertikalen Arm mit, um die Zielerfassung zu beschleunigen.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_LightCombatRifle.description>
-   <Gun_PolymerBullpupRifle.label>Polymer Sturmgewehr</Gun_PolymerBullpupRifle.label>
-   <Gun_PolymerBullpupRifle.description>Das verbesserte Sturmgewehr aus leichtem Polymer nach altem Muster f&#252;r Spezialeinsatzkr&#228;fte angefertigt.\n\nVerf&#252;gt &#252;ber ein Zielerfassungssystem mit minimaler Sichtvergr&#246;&#223;erung.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_PolymerBullpupRifle.description>
-   <Gun_WeightedBullpupRifle.label>Schultermagazin-Kampfgewehr ACR</Gun_WeightedBullpupRifle.label>
-   <Gun_WeightedBullpupRifle.description>Das Sturmgewehr mit Schultermagazin und allerhand technischen Raffinessen strikt den alten Vorgaben der Waffenschmiedekunst folgend.\n\nTrotz seines hohen Gewichts hat sich diese Waffe eine guten Ruf mit seiner ph&#228;nomenalen Pr&#228;zision verdient. Verf&#252;gt &#252;ber ein schweres Zielsuchsystem um seine effektive Reichweite zu erh&#246;hen.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_WeightedBullpupRifle.description>
-   <Gun_PrototypeRifle.label>Prototyp Sturmgewehr EM2</Gun_PrototypeRifle.label>
-   <Gun_PrototypeRifle.description>Die Reproduktion eines uralten Prototyps eines Sturmgewehrs, der Zu Zeiten seiner Entstehung als Gipfel der Handfeuerwaffen-Industrie galt.\n\nDiese Schultermagazin-Konfiguration entspang neuesten technologischen Fortschritten, wird mit integrierter Zielerfassung geliefert und bietet h&#246;chste Pr&#228;zision. Ungl&#252;cklicherweise wurde die Entwicklung der Waffe wegen politischen Problemen um eine standardisierte Munitionierung der Soldaten eingestellt.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_PrototypeRifle.description>
-   <Gun_DefenceRifle.label>Verteidiger KG</Gun_DefenceRifle.label>
-   <Gun_DefenceRifle.description>Ein vollautomatisches Kampfgewehr f&#252;r kurze Entfernungen von unbekannter Herkunft.\n\nAuch wenn der Urheber unbekannt ist, so hat diese Waffe doch ihren Weg in gut situierte Siedlungen vieler Randwelten gefunden.\n\nFeuert Patronen mit reduzierter Kraft im Gewehrkaliber ab.</Gun_DefenceRifle.description>
-   <Gun_AutomaticBattleRifle.label>Modulares Gefechtsgewehr</Gun_AutomaticBattleRifle.label>
-   <Gun_AutomaticBattleRifle.description>Das extrem modulare Gefechtsgewehr f&#252;r kurze Entfernungen nach antiker Konstruktionsweise.\n\nVon Veteranen vergangener Kriege bis hin zu ihrem Ursprung bei den Spezialeinsatzkr&#228;ften &#252;beraus gesch&#228;tzt, kommt dieses Exemplar mit der Option f&#252;r automatisches Feuer direkt aus der Fabrik.\n\nBietet zudem verschiedenste Aufsatzm&#246;glichkeiten und wechselt zwischen allen Kalibern.\n\nFeuert Patronen bis zum Gewehrkaliber ab.</Gun_AutomaticBattleRifle.description>
-   <Gun_HeavyCombatRifle.label>Schweres Infanteriegewehr</Gun_HeavyCombatRifle.label>
-   <Gun_HeavyCombatRifle.description>Das schwere Infanteriegewehr f&#252;r kurze Entfernungen nach alter Bauart gefertigt.\n\nNach dem Fall einer schwer ger&#252;steten Glitzerwelt, sind abertausende dieser Waffen auf dem interstellaren Schwarzmarkt aufgetaucht und haben sich als verl&#228;ssliche und flexible Waffenplattform eine ausgezeichnete Reputation aufgebaut.\n\nVerf&#252;gt &#252;ber Reflektorsicht und einen vertikalen Arm um die Zielerfassung zu beschleunigen.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_HeavyCombatRifle.description>
-   <Gun_SpecialOperationsRifle.label>Modifizierte SCAR</Gun_SpecialOperationsRifle.label>
-   <Gun_SpecialOperationsRifle.description>Das extrem modulare Kampfgewehr (Typ: FN SCAR-H) modifiziert mit allerlei optischen Aufs&#228;tzen und technischen Spielereien nach antiker Konstruktionsweise.\n\nVerf&#252;gt &#252;ber ein Laser-Modul, Reflektorsicht, optische Sichtvergr&#246;&#223;erung und vertikalen Handgriff zur beschleunigten Zielerfassung sowie Reichweitenerh&#246;hung.\n\nWechselt zwischen allen Kalibern. Feuert Patronen bis zum Gewehrkaliber ab.</Gun_SpecialOperationsRifle.description>
-   <Gun_RuggedLMG.label>Supressionsgewehr</Gun_RuggedLMG.label>
-   <Gun_RuggedLMG.description>Ein leichtes Supressionsgewehr nach antiker Bauweise gefertigt.\n\nVon vielen wegen seiner hohen Verl&#228;sslichkeit hei&#223; begehrt, ist er doch zu 90% baugleich gegen&#252;ber seinem kurzl&#228;figeren &#228;lteren Bruder.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_RuggedLMG.description>
-   <Gun_CompactLightMachineGun.label>Unterst&#252;tzungswaffe MK46</Gun_CompactLightMachineGun.label>
-   <Gun_CompactLightMachineGun.description>Ein kompaktes Maschinengewehr (Typ: MK46) zur Unterst&#252;tzung durch Unterdr&#252;ckungsfeuer mit sp&#252;rbaren R&#252;cksto&#223; nach alter Vorlage.\n\nMit verz&#246;gertem Laufroll-Mechanismus und einem k&#252;rzeren Lauf als der Durchschnitt. Und auch wenn diese Waffe ihre besten Zeiten bereits hinter sich hat, stellt sie immernoch deutlich unter Beweis, welch eine zerst&#246;rerische Feuerkraft sie hat.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_CompactLightMachineGun.description>
-   <Gun_PolymerLightSupportWeapon.label>Steyr AUG</Gun_PolymerLightSupportWeapon.label>
-   <Gun_PolymerLightSupportWeapon.description>Das leichte Kompaktgewehr (Typ: Steyr AUG) aus Polymer zur Unterst&#252;tzung bei Feld- und Stadteins&#228;tzen nach alter Machart.\n\nDer Abwicklungsprozess der Waffe befindet sich hinter dem Ausl&#246;ser, ohne dabei die Werkl&#228;nge des Gewehrlaufes zu opfern, was es zu einer sehr kompakten und doch pr&#228;zisen Rarit&#228;t macht, auch da sie weniger in Konflikten und doch eher in den H&#228;nden von Sammlern ihr Zuhause fand.\n\nBesitzt als besonderes Merkmal ein Zielerfassungssystem mit minimaler Sichtvergr&#246;&#223;erung.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_PolymerLightSupportWeapon.description>
-   <Gun_InfantryAutomaticRifle.label>Infanterie-Waffenplattform</Gun_InfantryAutomaticRifle.label>
-   <Gun_InfantryAutomaticRifle.description>Das schwerste Infanteriegewehr f&#252;r kurze Entfernungen. Erste wirkliche Waffenplattform und ein Manifest antiker Waffengeschichte f&#252;r taktische Einsatzwaffen.\n\nBer&#252;hmt f&#252;r das dynamische Umschalten von Hohlspitz- zu Vollmantelgeschossen, wenn sich zu starke Hitze beim automatischen Feuer entwickelt.\n\nDurchdringte dickste Panzerung. Verf&#252;gt &#252;ber Reflektorsicht und einen vertikalen Arm um die Zielerfassung zu beschleunigen.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_InfantryAutomaticRifle.description>
-   <Gun_WeightedLightSupportWeapon.label>Taktische Einsatzwaffe M249</Gun_WeightedLightSupportWeapon.label>
-   <Gun_WeightedLightSupportWeapon.description>Eine Unterst&#252;tzungswaffe f&#252;r weite Entfernungen in Form eines schweren Infanteriegewehrs mit Stellwerk und Magazinkoffer nach alter Bauweise.\n\nMan lernte zur damligen Zeit schnell, da&#223; diese durchschlagskr&#228;ftige Waffe ein wahrer Segen f&#252;r jede Truppenbewegung ist. So wurde ihre Waffengattung zum festen Bestandteil milit&#228;rischer Spezialausr&#252;stung.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_WeightedLightSupportWeapon.description>
-   <Gun_VintageLightMachineGun.label>BAR</Gun_VintageLightMachineGun.label>
-   <Gun_VintageLightMachineGun.description>Ein leichtes Infanteriegewehr (Typ: Browning) f&#252;r weite Entfernungen mit einem ordentlich Bumms nach altert&#252;mlicher Machart gefertigt.\n\nZu&#228;chst von der Luftwaffe zu Feld gef&#252;hrt, stellen diese Waffen die Gro&#223;v&#228;ter von effizienter, tragbarer und automatischer Feuerkraft dar. Bis heute sind sie bei Sammlern entfernter Glitzerwelten sehr beliebt.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_VintageLightMachineGun.description>
-   <Gun_VintageGPMG.label>Mehrzweck-Maschinengewehr</Gun_VintageGPMG.label>
-   <Gun_VintageGPMG.description>Das schwere Mehrzweck-Maschinengewehr mit doppeltem Standfu&#223; und entsprechender G&#252;rtelkammer zum Stahl fressen. Konzeptioniert nach antiker Konstrukionsweise.\n\nSelbst nach 3000 Jahren der technologischen Entwicklung k&#246;nnen Ballistik-Waffen ihre Abstammung bis zu diesem Design zur&#252;ckf&#252;hren. Dieses Exemplar wurde von einem Waffenschmied einer weit entfernten Glitzerwelt gefertigt, doch wie es hierher gelang, bleibt ein Mysterium.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_VintageGPMG.description>
-   <Gun_GPMG.label>Universalgewehr M60</Gun_GPMG.label>
-   <Gun_GPMG.description>Ein Mehrzweck-Maschinengewehr (Typ: Rambo) universal f&#252;r jedes Einsatzgebiet und Krisengebiet geschaffen. Entworfen nach der alten Waffenkunst.\n\nZur seiner Zeit noch bevorzugte man leichtere Schusswaffen mit kleinerem Kaliber, dies &#228;nderte sich jedoch im Laufe der Geschichte, durch die wachsende Anzahl an schwer gepanzerten Soldatenverb&#228;nden moderner Schlachtfelder. Und so wurde sie am Ende doch noch zur ersten Wahl um &#252;ber die neuen Gegebenheiten Herr zuwerden.\n\nKann auf einem Tripod befestigt werden und entfesselt so eine wahre Feuersbrunst.\n\nFeuert Patronen h&#246;chster G&#252;teklasse im Gewehrkaliber ab.</Gun_GPMG.description>
-   <Gun_BreechLoadingSniper.label>Zylinderkopfgewehr</Gun_BreechLoadingSniper.label>
-   <Gun_BreechLoadingSniper.description>Ein Hinterlader mit rotierendem Trommelmagazin nach altert&#252;mlicher Blaupause\n\n&#214;ffnet sich nach innen um neu munitoniert zu werden.\n\nFeuert f&#252;r Gewehrkaliber &#252;berdurchschnittlich gro&#223;e Patronen ab.</Gun_BreechLoadingSniper.description>
-   <Gun_LeverActionSniper.label>Streicher</Gun_LeverActionSniper.label>
-   <Gun_LeverActionSniper.description>Ein m&#228;chtiges Pr&#228;zisionsgewehr (Typ: Streicher) mit Seitenhebel zum Nachf&#252;llen des Patronenschachts nach uralter Konstruktionsart.\n\nDer absolute Favorit jeden Profis. Sauber und pr&#228;zise. Durchschl&#228;gt so gut wie s&#228;mtliche K&#246;rperpanzer.\n\nFeuert Patronen h&#246;chster G&#252;teklasse in Gewehrkalibergr&#246;&#223;e ab.</Gun_LeverActionSniper.description>
-   <Gun_ReconRifle.label>AWP</Gun_ReconRifle.label>
-   <Gun_ReconRifle.description>Ein milit&#228;risches Aufkl&#228;rungsgewehr mit unwahrscheinlich hoher Durchschlagskraft und bestm&#246;glicher Pr&#228;zision geschaffen nach uralter Vorlage.\n\nUrspr&#252;nglich f&#252;r die artkische Kriegsf&#252;hrung gedacht, war sie auch noch nach der Kolonialisierung entfernter Eiswelten im stetigen Gebrauch.\n\nMit einem speziellen Squad Support Zielfernrohr ausgestattet.\n\nFeuert Patronen h&#246;chster G&#252;teklasse im Gewehrkaliber ab.</Gun_ReconRifle.description>
-   <Gun_RuggedMarksmansRifle.label>Autom. Scharfsch&#252;tzengewehr</Gun_RuggedMarksmansRifle.label>
-   <Gun_RuggedMarksmansRifle.description>Das automatische Scharfsch&#252;tzengewehr f&#252;r mittlere Distanzen der antiken Waffenkunst.\n\nZur Aufkl&#228;rung und Unterst&#252;tzung konzeptioniert. Im Vergleich zu seinen Zeitgenossen fehlt es der Waffe an Genauigkeit, aber die Feuerrate bei stabilisierter Sicht l&#228;sst nichts zu w&#252;nschen &#252;brig.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_RuggedMarksmansRifle.description>
-   <Gun_VintageSniper.label>Mammuth Jagdgewehr</Gun_VintageSniper.label>
-   <Gun_VintageSniper.description>Das Scharfsch&#252;tzengewehr (Typ: Mammuthj&#228;ger) f&#252;r weite Distanzen nach sehr alter Waffenkunde geschaffen.\n\nBenutzt Patronen mit Spezialh&#252;lsen im Gewehrkaliber.</Gun_VintageSniper.description>
-   <Gun_SpecialPurposeRifle.label>Multifunktions-Scharfsch&#252;tzengewehr</Gun_SpecialPurposeRifle.label>
-   <Gun_SpecialPurposeRifle.description>Fr&#252;hes multifunktionales Scharfsch&#252;tzengewehr mit Schwebelauf und Direktaufprall nach bewehrtem Muster.\n\nEntworfen um Pr&#228;zision auf Entfernung zu bieten, erf&#252;llt diese Waffe ihre Niesche vollends. Mit bemerkenswerter Leistung werden Anforderungen an das ideale Scharfsch&#252;tzengewehr nicht nur erf&#252;llt; Nein, sie werden sogar &#252;bertroffen!\n\nFeuert eigens angefertigte Patronen h&#246;chster G&#252;teklasse in Zwischengliedkalibergr&#246;&#223;e ab.</Gun_SpecialPurposeRifle.description>
-   <Gun_SniperSupportRifle.label>Aufkl&#228;rungsgewehr</Gun_SniperSupportRifle.label>
-   <Gun_SniperSupportRifle.description>Ein milit&#228;risches Aufkl&#228;rungsgewehr mit Halbautomatik f&#252;r kurze Entfernungen nach antiker Konstruktionsweise.\n\nFr&#252;her hie&#223; es ein halbautomatisches Gewehr k&#246;nne niemals die Pr&#228;zision eines Bolzenschussgewehres erreichen. Bis zu dem Punkt als dieses Modell vorgestellt wurde.\n\nWegen seines Arbeitsaufwands und der teuren Produktion wurde es haupts&#228;chlich von Spezialeinheiten und von Truppen zum Niederschlagen von Aufst&#228;nden verwendet. Dies hielt es jedoch nicht davon ab, schlie&#223;lich auch in die H&#228;nde der b&#246;sen Jungs zu fallen.\n\nBietet als besonderdere Merkmale einen vertikalen Griff, Bipod-Standfu&#223;, justierbaren Munitionsschacht, Schwebelauf, Pr&#228;zisionszielfernrohr und Spezialmunition f&#252;r die bestm&#246;gliche Treffersicherheit.\n\nFeuert eigens angefertigte Patronen h&#246;chster G&#252;teklasse in Gewehrkalibergr&#246;&#223;e ab.</Gun_SniperSupportRifle.description>
-   <Gun_AntiMaterielRifle.label>Personalisierte AMG</Gun_AntiMaterielRifle.label>
-   <Gun_AntiMaterielRifle.description>Ein personalisierte Anti-Materie Gewehr nach antiker Baukunst geschaffen um verschiedenste Materialien und Gewebe zu durchdringen. Es kann sogar leichte Vehikel zerst&#246;ren.\n\nNett, f&#252;r jeden der darauf steht jemanden von einem anderen Planeten aus zu enthaupten. Dieses Design b&#252;&#223;t jedoch etwas an Genauigkeit ein.\n\nFeuert eigens angefertigte Patronen h&#246;chster G&#252;teklasse in Gewehrkalibergr&#246;&#223;e ab.</Gun_AntiMaterielRifle.description>
- </LanguageData>
+
+  <!-- Matchlock Pistol -->
+  <Gun_MatchlockPistol.label>Zunderbüchse</Gun_MatchlockPistol.label>
+  <Gun_MatchlockPistol.description>Die Luntenschloss Pistole (auch Piratenhaken genannt) ist ein früher Vorderlader der Waffengeschichte.\n\nSie feuert ein gewaltiges Geschoss ab, birgt jedoch große Mängel in Präzision und rapider Schussfolge.</Gun_MatchlockPistol.description>
+  <Gun_MatchlockPistol.tools.0.label>Griff</Gun_MatchlockPistol.tools.0.label>
+
+  <!-- Matchlock Arquebus -->
+  <Gun_MatchlockArquebus.label>Arkebuse</Gun_MatchlockArquebus.label>
+  <Gun_MatchlockArquebus.description>Die Luntenschloss Hakenbüchse der frühen Waffenhistorie.\n\nSie feuert ein riesiges Projektil mit mangelhafter Genauigkeit ab und macht jedes Nachladen zu echter Arbeit.</Gun_MatchlockArquebus.description>
+  <Gun_MatchlockArquebus.tools.0.label>Gehäuse</Gun_MatchlockArquebus.tools.0.label>
+  <Gun_MatchlockArquebus.tools.1.label>Lauf</Gun_MatchlockArquebus.tools.1.label>
+
+  <!-- Double-Barreled Shotgun -->
+  <Gun_DoubleBarreledShotgun.label>Doppelläufige Schrotflinte</Gun_DoubleBarreledShotgun.label>
+  <Gun_DoubleBarreledShotgun.description>Eine doppelläufige Schrotflinte nach antikem Muster.\n\nWährend die meisten ihre Bauart für obsolet halten, erkennen doch alle ihre legendäre Geschichte und einschüchternde Wirkung an.\n\nVerschießt die alltägliche Schrotmunition.</Gun_DoubleBarreledShotgun.description>
+  <Gun_DoubleBarreledShotgun.tools.0.label>Gehäuse</Gun_DoubleBarreledShotgun.tools.0.label>
+  <Gun_DoubleBarreledShotgun.tools.1.label>Lauf</Gun_DoubleBarreledShotgun.tools.1.label>
+
+  <!-- Breech-Loading Rifle -->
+  <Gun_BreechLoadingRifle.label>Hinterlader</Gun_BreechLoadingRifle.label>
+  <Gun_BreechLoadingRifle.description>Der Hinterlader ist eine Schusswaffe, deren Lauf an beiden Enden offen ist und bei denen das Projektil und die Treibladung durch die hintere Öffnung in die Kammer gebracht werden. Sie wurde vor Tausenden von Jahren äußerst erfolgreich gegen wilde Stämme von Ureinwohnern bei der Kolonialisierung der zweiten Erdhälfte verwendet. Heute findet man diese Relikte vielleicht noch an Wänden hängend vor.\n\nFeuert für Gewehrkaliber überdurchschnittlich große Patronen ab.</Gun_BreechLoadingRifle.description>
+  <Gun_BreechLoadingRifle.tools.0.label>Gehäuse</Gun_BreechLoadingRifle.tools.0.label>
+  <Gun_BreechLoadingRifle.tools.1.label>Lauf</Gun_BreechLoadingRifle.tools.1.label>
+
+  <!-- Lever-Action Rifle ### -->
+  <Bullet_45LongR.label>Pistolenkugel</Bullet_45LongR.label>
+  <Gun_LeverActionRifle.label>Unterhebel-Repetierer</Gun_LeverActionRifle.label>
+  <Gun_LeverActionRifle.description>Der Unterhebel-Repetierer wird durch einen Hebel unter dem Gewehrkolben durchgeladen.\n\nVom Banditen über den Revolverhelden bis zum einfachen Farmer; Dieses alte Meisterwerk ist den Leuten als die Waffe bekannt, die den Wilden Westen gewann.\n\nFeuert Patronen im Pistolenkaliber ab, auf Wunsch auch eimerweise.</Gun_LeverActionRifle.description>
+  <Gun_LeverActionRifle.tools.0.label>Gehäuse</Gun_LeverActionRifle.tools.0.label>
+  <Gun_LeverActionRifle.tools.1.label>Lauf</Gun_LeverActionRifle.tools.1.label>
+
+  <!-- Bolt-Action Sniper -->
+  <Bullet_300Win.label>Großkaliber Gewehrkugel</Bullet_300Win.label>
+
+  <!-- Submachine Gun -->
+  <Gun_SubmachineGun.label>Uzi</Gun_SubmachineGun.label>
+  <Gun_SubmachineGun.description>Die Maschinenpistole (Typ: Uzi) mit hohem Rückstoß nach alter Machart.\n\nIhre simple Konstruktionsweise ermöglicht eine leichte Wartung sowie eine kostengünstige Herstellung.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_SubmachineGun.description>
+  <Gun_SubmachineGun.tools.0.label>Griff</Gun_SubmachineGun.tools.0.label>
+
+  <!-- Battle Rifle -->
+  <Gun_BattleRifle.label>Feldkampfgewehr</Gun_BattleRifle.label>
+  <Gun_BattleRifle.description>Das Feldkampfgewehr (Typ: Battle Rifle) für kurze Distanzen nach antiker Konstruktionsart. Unerwartet handlich und solide im Einsatz wurde es vorallem von Veteranen längst vergangener Kriege geschätzt.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_BattleRifle.description>
+  <Gun_BattleRifle.tools.0.label>Gehäuse</Gun_BattleRifle.tools.0.label>
+  <Gun_BattleRifle.tools.1.label>Lauf</Gun_BattleRifle.tools.1.label>
+
+  <!-- Grenade Launcher -->
+  <Bullet_GrenadeLauncher.label>Explosive Granate</Bullet_GrenadeLauncher.label>
+  <Gun_GrenadeLauncher.label>Granatwerfer</Gun_GrenadeLauncher.label>
+  <Gun_GrenadeLauncher.description>Der Granatwerfer nach altertümlicher Bauweise.\n\nIm Wesentlichen ein langes Rohr mit Schlagbolzen und Zündmechanismus. Billig, aber effizient im Ergebnis.</Gun_GrenadeLauncher.description>
+  <Gun_GrenadeLauncher.tools.0.label>Gehäuse</Gun_GrenadeLauncher.tools.0.label>
+  <Gun_GrenadeLauncher.tools.1.label>Lauf</Gun_GrenadeLauncher.tools.1.label>
+
+  <!-- Disposable Launcher -->
+  <Bullet_DisposableRocket.label>Bazookageschoss</Bullet_DisposableRocket.label>
+  <Gun_DisposableLauncher.label>Bazooka</Gun_DisposableLauncher.label>
+  <Gun_DisposableLauncher.description>Ein Wegwerf-Raketenwerfer nach altertümlicher Vorlage für den einmaligen Gebrauch bei militärischen Einsätzen.\n\nEigentlich gegen gepanzerte Fahrzeuge und Bunker konzeptioniert, hat sich diese Waffe mit den richtigen Sprengköpfen versehen, auch als äußerst effizient gegen Infanterie erwiesen.</Gun_DisposableLauncher.description>
+  <Gun_DisposableLauncher.tools.0.label>Lauf</Gun_DisposableLauncher.tools.0.label>
+
+  <!-- Large Revolver -->
+  <Bullet_44Ball.label>Großkaliber Pistolenkugel</Bullet_44Ball.label>
+  <Gun_LargeRevolver.label>Schießprügel</Gun_LargeRevolver.label>
+  <Gun_LargeRevolver.description>Ein großer Revolver (Typ: Peacemaker) nach antiker Bauart.\n\nObwohl er für seine schiere Kraft immer sehr begehrt wurde, hat dieser Revolver von aufklaffenden Zylindern bis hin zum beidhändigen Kugelhagel eine fragwürdige Vergangenheit in Sachen Sicherheit.\n\nKlassischer Friedensstifter.\n\nKann auch als Knüppel eingesetzt werden.\n\nFeuert große Patronen im Pistolenkaliber ab.</Gun_LargeRevolver.description>
+  <Gun_LargeRevolver.tools.0.label>Griff</Gun_LargeRevolver.tools.0.label>
+
+  <!-- Bolt-Action Pistol -->
+  <Bullet_762x51mmP.label>Vollmantel Gewehrkugel</Bullet_762x51mmP.label>
+  <Gun_BoltActionPistol.label>Wumme</Gun_BoltActionPistol.label>
+  <Gun_BoltActionPistol.description>Eine abgetrennte Version des Bolzenschussgewehrs, runtergeschnitten auf Pistolengröße.\n\nWahrscheinlich von einem Gang-Mitglied einer weit entfernten Randwelt modifiziert, fehlen Frontteil und Kimme dieser Waffe, was sich in ungenaueren Schüssen auf Entfernungen wiederspiegelt.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_BoltActionPistol.description>
+  <Gun_BoltActionPistol.tools.0.label>Griff</Gun_BoltActionPistol.tools.0.label>
+
+  <!-- Service Pistol -->
+  <Gun_ServicePistol.label>Schnellschusspistole</Gun_ServicePistol.label>
+  <Gun_ServicePistol.description>Eine altes Muster einer Dienstpistole mit vorbildlich kurzem Rückstoß.\n\nVerwendet ein doppeltes Magazin, was eine höhere Kapazität gegenüber seinen Zeitgenossen ermöglicht.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_ServicePistol.description>
+  <Gun_ServicePistol.tools.0.label>Griff</Gun_ServicePistol.tools.0.label>
+
+  <!-- Urban Pistol -->
+  <Gun_UrbanPistol.label>Stadtknarre</Gun_UrbanPistol.label>
+  <Gun_UrbanPistol.description>Eine vollautomatische Pistole (Typ: Urban Pistol) mit Rückstoß städtischer Herkunft.\n\nWurde in Gang orientierten Stadtwelten so gewöhnlich wie ein paar Schuhe getragen.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_UrbanPistol.description>
+  <Gun_UrbanPistol.tools.0.label>Griff</Gun_UrbanPistol.tools.0.label>
+
+  <!-- Vintage Machine Pistol -->
+  <Gun_VintageMachinePistol.label>Tommy Gun</Gun_VintageMachinePistol.label>
+  <Gun_VintageMachinePistol.description>Eine vollautomatische Maschinenpistole (Typ: Thompson) mit niedrigem Rückstoß nach antikem Muster.\n\nAls eines der ersten Designs ihrer Art war diese kunstvolle Waffe das Produkt eines namhaften Gewehrschmieds und -Sammlers einer weit entfernten Glitzerwelt.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_VintageMachinePistol.description>
+  <Gun_VintageMachinePistol.tools.0.label>Gehäuse</Gun_VintageMachinePistol.tools.0.label>
+  <Gun_VintageMachinePistol.tools.1.label>Lauf</Gun_VintageMachinePistol.tools.1.label>
+
+  <!-- Vintage Submachine Gun -->
+  <Gun_VintageSubmachineGun.label>Komplette Thompson</Gun_VintageSubmachineGun.label>
+  <Gun_VintageSubmachineGun.description>Eine vollautomatische Maschinenpistole (Typ: Thompson) mit spürbaren Rückstoß, der jedoch von einer Auflage abgemindert werden kann.\n\nAls eines der ersten Designs ihrer Art birgt diese Waffe noch deutliche Mängel, umfasst dafür aber einen besonders großes Magazin und gestützte Bedienbarkeit.\n\nHeutzutage sind die meisten gefundenen Exemplare schlecht gemachte Replica. Die echten Stücke werden in weit entfernten Glitzerwelten gesammelt.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_VintageSubmachineGun.description>
+  <Gun_VintageSubmachineGun.tools.0.label>Gehäuse</Gun_VintageSubmachineGun.tools.0.label>
+  <Gun_VintageSubmachineGun.tools.1.label>Lauf</Gun_VintageSubmachineGun.tools.1.label>
+
+  <!-- Bullpup PDW -->
+  <Bullet_57x28mm.label>Pistolenkugel</Bullet_57x28mm.label>
+  <Gun_BullpupPDW.label>Bullpup P90</Gun_BullpupPDW.label>
+  <Gun_BullpupPDW.description>Eine Maschinenpistole (Typ: FN P90) bei der sich Verschluss und Magazin hinter dem Griffstück in der Schulterstütze befinden.\n\nDie Bullpup PDW wurde für Spezialkartuschen verkammert, mit der sich spielend leicht Körperpanzerungen durchdringen lassen. Dies zusammen mit der extrem hohen Feuerrate und dem extra großen Magazin sind der Beweis dafür, daß Größe keine Rolle spielt.\n\nHat als zusätzliche Besonderheit eine integrierte Reflektorsicht für eine beschleunigte Zielerfassung.</Gun_BullpupPDW.description>
+  <Gun_BullpupPDW.tools.0.label>Gehäuse</Gun_BullpupPDW.tools.0.label>
+  <Gun_BullpupPDW.tools.1.label>Lauf</Gun_BullpupPDW.tools.1.label>
+
+  <!-- Personalised Bullpup PDW -->
+  <Gun_PersonalisedBullpupPDW.label>Personalisierte Bullpup PDW</Gun_PersonalisedBullpupPDW.label>
+  <Gun_PersonalisedBullpupPDW.description>Eine personalisierte Schutzwaffe (Typ: Bullpup PDW) bei der sich Verschluss und Magazin hinter dem Griffstück in der Schulterstütze befinden.\n\nDie Waffe wurde in einem Graffiti-Look verziert. Das Rosa schmerzt in den Augen.\n\nFeuert aus Spezialmagazinen mit hoher Penetration Patronen im Pistolenkaliber ab.</Gun_PersonalisedBullpupPDW.description>
+  <Gun_PersonalisedBullpupPDW.tools.0.label>Gehäuse</Gun_PersonalisedBullpupPDW.tools.0.label>
+  <Gun_PersonalisedBullpupPDW.tools.1.label>Lauf</Gun_PersonalisedBullpupPDW.tools.1.label>
+
+  <!-- Polymer Submachine Gun -->
+  <Gun_PolymerSubmachineGun.label>Polymer Maschinenpistole</Gun_PolymerSubmachineGun.label>
+  <Gun_PolymerSubmachineGun.description>Eine Maschinenpistole aus Polymer mit gedämpften Rückstoß.\n\nPrimär bei Fallschirmjägern zu finden, ist diese Waffe vorallem klein, leicht und handlich, ohne dabei an Feuerkraft einzubüßen.\n\nHat als besonderes Merkmal einen teleskopischen Aufsatz mit minimaler Sichtvergrößerung.\n\nFeuert Patronen im Pistolenkaliber ab.</Gun_PolymerSubmachineGun.description>
+  <Gun_PolymerSubmachineGun.tools.0.label>Gehäuse</Gun_PolymerSubmachineGun.tools.0.label>
+  <Gun_PolymerSubmachineGun.tools.1.label>Lauf</Gun_PolymerSubmachineGun.tools.1.label>
+
+  <!-- Sawn-Off Shotgun -->
+  <Gun_SawnOffShotgun.label>Wolfstöter</Gun_SawnOffShotgun.label>
+  <Gun_SawnOffShotgun.description>Eine Schrottflinte nach historischer Bauweise (Typ: Lupara) mit Lauf und Griff auf Pistolengröße gekürzt.\n\nWegen der größeren Streuung und Handlichkeit gerne von Kriminellen jeglicher Rasse und Kredos verwendet.\n\nSchießt mit gebräuchlicher Schrotmunition.</Gun_SawnOffShotgun.description>
+  <Gun_SawnOffShotgun.tools.0.label>Griff</Gun_SawnOffShotgun.tools.0.label>
+
+  <!-- Lever-Action Shotgun -->
+  <Gun_LeverActionShotgun.label>Winchester</Gun_LeverActionShotgun.label>
+  <Gun_LeverActionShotgun.description>Eine Hinterlader-Schrotflinte (Typ: Winchester) nach uralter Vorlage.\n\nGern übersehen unter den Schrottflinten gleichwertiger Art ist diese schmucke Waffe dennoch ein brauchbarer Kandidat für jeden Waffenliebhaber, gerade wegen der gewissen Vorzüge, die begabte Revolverhelden zu nutzen wissen.\n\nSchießt mit gebräuchlicher Schrotmunition.</Gun_LeverActionShotgun.description>
+  <Gun_LeverActionShotgun.tools.0.label>Gehäuse</Gun_LeverActionShotgun.tools.0.label>
+  <Gun_LeverActionShotgun.tools.1.label>Lauf</Gun_LeverActionShotgun.tools.1.label>
+
+  <!-- Akimbo Lever-Action Shotguns -->
+  <Gun_AkimboLeverActionShotguns.label>Akimbo Zweifacher Ballermann</Gun_AkimboLeverActionShotguns.label>
+  <Gun_AkimboLeverActionShotguns.description>Zwei Hinterlader-Schrotflinten (Typ: Akimbo) nach historischer Bauart mit abgesägtem Lauf auf überschaubare Pistolengröße gekürzt.\n\nViele glauben daran, daß zwei verbundene Schrotflinten dieser Art dem Träger durch unglaubliche Reichweite, hohen Schaden und endlose Munition wundersame Macht verleihen. Lächerlich.\n\nFeuert mit gebräuchlicher Schrotmunition.</Gun_AkimboLeverActionShotguns.description>
+  <Gun_AkimboLeverActionShotguns.tools.0.label>Magazin</Gun_AkimboLeverActionShotguns.tools.0.label>
+
+  <!-- Semi-Automatic Shotgun -->
+  <Gun_SemiAutomaticShotgun.label>Halbautomatische Schrotflinte</Gun_SemiAutomaticShotgun.label>
+  <Gun_SemiAutomaticShotgun.description>Die halbautomatische Schrotflinte mit kräftigem Rückstoß.\n\nFür das Militär und die Polizei konzeptioniert, verfügt diese Waffe über einen dualen Systemmodus, der zwischen Pumpmechanik und Halbautomatik schaltet.\n\nSchießt mit gebräuchlicher Schrotmunition.</Gun_SemiAutomaticShotgun.description>
+  <Gun_SemiAutomaticShotgun.tools.0.label>Gehäuse</Gun_SemiAutomaticShotgun.tools.0.label>
+  <Gun_SemiAutomaticShotgun.tools.1.label>Lauf</Gun_SemiAutomaticShotgun.tools.1.label>
+
+  <!-- Riot Shotgun -->
+  <Bullet_BeanBag.label>Bohnensack</Bullet_BeanBag.label>
+  <Gun_RiotShotgun.label>Mehrfachschuss-Schrotflinte</Gun_RiotShotgun.label>
+  <Gun_RiotShotgun.description>Eine Schrotflinte mit sich drehender Patronentrommel (Typ: Riot Shotgun) nach alter Machart.\n\nDas erweiterte Magazin liegt in einem sich drehenden Zylinder und wird erst bei einer zweifacher Betägigung ausgelöst um die Wahrscheinlichkeit von Verletzungen bei nicht lethaler Munitionierung zu vermeiden.\n\nFeuert mit gebräuchlicher Schrotmunition.</Gun_RiotShotgun.description>
+  <Gun_RiotShotgun.tools.0.label>Gehäuse</Gun_RiotShotgun.tools.0.label>
+  <Gun_RiotShotgun.tools.1.label>Lauf</Gun_RiotShotgun.tools.1.label>
+
+  <!-- Rugged Carbine -->
+  <Bullet_762x39mmC.label>Zwischengliedkaliber Gewehrkugel</Bullet_762x39mmC.label>
+  <Gun_RuggedCarbine.label>UMP-45 Rugged</Gun_RuggedCarbine.label>
+  <Gun_RuggedCarbine.description>Ein holpriger Karabiner (Typ: UMP-45 Rugged) nach sehr alter Bauweise mit geriffeltem Gehäuse auf handliche Größe konvertiert.\n\nDiese üppig ausgestatte Waffe wurde von vielen als Mittelding zwischen Kraft und Volumen gepriesen.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_RuggedCarbine.description>
+  <Gun_RuggedCarbine.tools.0.label>Gehäuse</Gun_RuggedCarbine.tools.0.label>
+  <Gun_RuggedCarbine.tools.1.label>Lauf</Gun_RuggedCarbine.tools.1.label>
+
+  <!-- Compact Carbine -->
+  <Gun_CompactCarbine.label>MP5 Compact</Gun_CompactCarbine.label>
+  <Gun_CompactCarbine.description>Ein Karabiner (Typ: Heckler &amp; Koch MP5) sehr alter Bauart mit Laufwickler-Verzögerung.\n\nVerfügt über einen besonders kurzen Lauf und ist serienmßig mit einer Teleskop-Vorrichtung ausgestattet.\n\nSehr kompakt und handlich. Einfacher Magazinwechsel.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_CompactCarbine.description>
+  <Gun_CompactCarbine.tools.0.label>Gehäuse</Gun_CompactCarbine.tools.0.label>
+  <Gun_CompactCarbine.tools.1.label>Lauf</Gun_CompactCarbine.tools.1.label>
+
+  <!-- Combat PDW -->
+  <Gun_CombatPDW.label>Combat PDW</Gun_CombatPDW.label>
+  <Gun_CombatPDW.description>Ein unglaublich vielseitiger Karabiner (Typ: Combat PDW) bei der sich Verschluss und Magazin hinter dem Griffstück in der Schulterstütze befinden.\n\nDieses Exemplar stellt einen besonders prägnanten Versuch dar, die Vorteile einer Maschinenpistole (Handlichkeit, Kosten) mit einer verhältnismäßig großen Durchschlagskraft zu verbinden, die fast an die eines Sturmgewehres herankommt.\n\nBesonders effektiv auf kurze Distanzen.\n\nVerfügt über Reflektorsicht und vertikalem Griff um die Zielerfassung zu beschleunigen.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_CombatPDW.description>
+  <Gun_CombatPDW.tools.0.label>Gehäuse</Gun_CombatPDW.tools.0.label>
+  <Gun_CombatPDW.tools.1.label>Lauf</Gun_CombatPDW.tools.1.label>
+
+  <!-- Weighted Bullpup Carbine -->
+  <Gun_WeightedBullpupCarbine.label>Bataillons MG</Gun_WeightedBullpupCarbine.label>
+  <Gun_WeightedBullpupCarbine.description>Ein schwerer vollausgestatteter Karabiner nach bewehrter Bauweise.\n\nDie Schultermagazin-Konfiguration samt kurzen Lauf machen diese Waffe extrem handlich, jedoch wird das ganze Gewicht dadurch auch unpraktischerweise nach hinten verteilt.\n\nDas serienmäßig angebrachte Zielverbesserungssystem erhöht die Reichweite signifikant und ist nur eines der vielen Extras, die dieses beeindruckende Wunderwerk der damaligen Technik mit sich führt.</Gun_WeightedBullpupCarbine.description>
+  <Gun_WeightedBullpupCarbine.tools.0.label>Gehäuse</Gun_WeightedBullpupCarbine.tools.0.label>
+
+  <!-- Modernised Arquebus -->
+  <Gun_ModernisedArquebus.label>Modernisierte Donnerbüchse</Gun_ModernisedArquebus.label>
+  <Gun_ModernisedArquebus.description>Ein Vorderlader der frühen Waffenhistorie mit zahlreichen Verbesserungen.\n\nScheinbar das Produkt eines vielleicht gelangweilten oder doch eher verrückten Waffenschmieds.\n\nVerfügt unter anderem über einen vergrößerters Magazin, einen vertikalen Arm und Reflektorsicht zur Hilfestellung bei der Zielerfassung.</Gun_ModernisedArquebus.description>
+  <Gun_ModernisedArquebus.tools.0.label>Gehäuse</Gun_ModernisedArquebus.tools.0.label>
+  <Gun_ModernisedArquebus.tools.1.label>Lauf</Gun_ModernisedArquebus.tools.1.label>
+
+  <!-- Improvised Rifle -->
+  <Bullet_22LR.label>Pistolenkugel</Bullet_22LR.label>
+  <Gun_ImprovisedRifle.label>Improvisierte Kanone</Gun_ImprovisedRifle.label>
+  <Gun_ImprovisedRifle.description>Ein zusammengeschustertes Gewehr mit sattem Rückstoß.\n\nWird von Piraten und Außenweltern zum trainieren ihrer neuen Schützen verwendet.\n\nGefährlicher für den Anwender als für den Anvisierten.\n\nFeuert eine verhältnismäßig armselig kleine Patronenkugel ab.</Gun_ImprovisedRifle.description>
+  <Gun_ImprovisedRifle.tools.0.label>Gehäuse</Gun_ImprovisedRifle.tools.0.label>
+  <Gun_ImprovisedRifle.tools.1.label>Lauf</Gun_ImprovisedRifle.tools.1.label>
+
+  <!-- Turret Rifle -->
+  <Bullet_TurretRifle.label>Mini&#233;-Geschoss</Bullet_TurretRifle.label>
+  <Gun_TurretRifle.label>Perkussionsgewehr</Gun_TurretRifle.label>
+  <Gun_TurretRifle.description>Frühes Perkussionsgewehr mit rotierender Zylindertrommel.\n\nMehr eine Kuriosität als eine zulässige Form der Verteidigung. Dieser Typ nutzt eine vertikal angebrachte Zylindertrommel mit radialen Kammern gegenüber dem geraden Lauf. Trotz des Potenzials den Schützen bei Verwendung zu verstümmeln, verbleiben zahlreiche dieser antiken Objekte in den Händen weniger reicher oder technologisch begabter Gemeinschaften.\n\nFeuert spezielle Patronen im Gewehrkaliber ab.</Gun_TurretRifle.description>
+  <Gun_TurretRifle.tools.0.label>Gehäuse</Gun_TurretRifle.tools.0.label>
+  <Gun_TurretRifle.tools.1.label>Lauf</Gun_TurretRifle.tools.1.label>
+
+  <!-- Large Lever-Action -->
+  <Gun_LargeLeverActionRifle.label>Friedensstifter</Gun_LargeLeverActionRifle.label>
+  <Gun_LargeLeverActionRifle.description>Ein mächtiges Gewehr mit Seitenhebel nach klassischer Blaupause, auch liebevoll die Wuchtbrumme genannt.\n\nBenutzt eine Magazinbox um die Spitzpunktkugeln in Gewehrkalibergröße sicher zu laden.</Gun_LargeLeverActionRifle.description>
+  <Gun_LargeLeverActionRifle.tools.0.label>Gehäuse</Gun_LargeLeverActionRifle.tools.0.label>
+  <Gun_LargeLeverActionRifle.tools.1.label>Lauf</Gun_LargeLeverActionRifle.tools.1.label>
+
+  <!-- Converted Bolt-Action Rifle -->
+  <Gun_ConvertedBoltActionRifle.label>Konvertiertes Schießeisen</Gun_ConvertedBoltActionRifle.label>
+  <Gun_ConvertedBoltActionRifle.description>Ein selbstgemachtes Bolzenschuss-Gewehr der alten Schule.\n\nWurde fein säuberlich zur Halbautomatik umgebaut und hat nun ein deutlich größeres Magazin sowie ein Pistolengriff für besseren Halt. Zusätzlich werden die Bolzen über einen Kanal mit Gas erneuert, der maschinell an der Seite der Waffe aufgearbeitet wurde.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_ConvertedBoltActionRifle.description>
+  <Gun_ConvertedBoltActionRifle.tools.0.label>Gehäuse</Gun_ConvertedBoltActionRifle.tools.0.label>
+  <Gun_ConvertedBoltActionRifle.tools.1.label>Lauf</Gun_ConvertedBoltActionRifle.tools.1.label>
+
+  <!-- Sporting Rifle -->
+  <Gun_SportingRifle.label>Vollautomatik-Kampfgewehr</Gun_SportingRifle.label>
+  <Gun_SportingRifle.description>Ein Vollautomatik-Kampfgewehr mit Direktaufprall gebaut nach altem Muster.\n\nDiese Variante wurde in seiner abgespeckteren Form gerne von der Zivilbevölkerung genutzt. Ihr geschichtlicher Hintergrund ist jedoch militärischer Natur.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_SportingRifle.description>
+  <Gun_SportingRifle.tools.0.label>Gehäuse</Gun_SportingRifle.tools.0.label>
+  <Gun_SportingRifle.tools.1.label>Lauf</Gun_SportingRifle.tools.1.label>
+
+  <!-- Vintage Assault Rifle -->
+  <Bullet_792x33mm.label>Zwischengliedkaliber Gewehrkugel</Bullet_792x33mm.label>
+  <Gun_VintageAssaultRifle.label>Erstkontakt-Sturmgewehr</Gun_VintageAssaultRifle.label>
+  <Gun_VintageAssaultRifle.description>Ein Sturmgewehr mit guter Reichweite nach altem Schemata.\n\nReplika eines der allerersten Sturmgewehre. Originale sind schwer zu finden und erzielen als echte Sammlerstücke einen hohen Preis auf dem interstellaren Schwarzmarkt.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_VintageAssaultRifle.description>
+  <Gun_VintageAssaultRifle.tools.0.label>Gehäuse</Gun_VintageAssaultRifle.tools.0.label>
+  <Gun_VintageAssaultRifle.tools.1.label>Lauf</Gun_VintageAssaultRifle.tools.1.label>
+
+  <!-- Rugged Assault Rifle -->
+  <Gun_RuggedAssaultRifle.label>AKM</Gun_RuggedAssaultRifle.label>
+  <Gun_RuggedAssaultRifle.description>Ein zuverlässiges Sturmgewehr (Typ: Kalashnikov AKM) mit guter Reichweite nach alter Blaupause.\n\nWenn auch von seltener Begebenheit und nur vereinzelt, kommt es immernoch vor, das diese Einzelstücke bis zum heutigen Tage einwandfrei funktionieren. Ein Testament der Unempfindlichkeit dieses zeitlosen Designs.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_RuggedAssaultRifle.description>
+  <Gun_RuggedAssaultRifle.tools.0.label>Gehäuse</Gun_RuggedAssaultRifle.tools.0.label>
+  <Gun_RuggedAssaultRifle.tools.1.label>Lauf</Gun_RuggedAssaultRifle.tools.1.label>
+
+  <!-- Gold-Plated Rugged Assault Rifle -->
+  <Gun_GoldPlatedRuggedAssaultRifle.label>Vergoldete AK-47</Gun_GoldPlatedRuggedAssaultRifle.label>
+  <Gun_GoldPlatedRuggedAssaultRifle.description>Ein vergoldetes Sturmgewehr (Typ: Kalashnikov AK-47) mit guter Reichweite nach alter Blaupause.\n\nEim Symbol des Wohlstands für jene die Krieg wollen. Ka-Ching.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_GoldPlatedRuggedAssaultRifle.description>
+  <Gun_GoldPlatedRuggedAssaultRifle.tools.0.label>Gehäuse</Gun_GoldPlatedRuggedAssaultRifle.tools.0.label>
+  <Gun_GoldPlatedRuggedAssaultRifle.tools.1.label>Lauf</Gun_GoldPlatedRuggedAssaultRifle.tools.1.label>
+
+  <!-- Modernised Rugged Assault Rifle -->
+  <Gun_ModernisedRuggedAssaultRifle.label>Modernisiertes Sturmgewehr</Gun_ModernisedRuggedAssaultRifle.label>
+  <Gun_ModernisedRuggedAssaultRifle.description>Ein weiterentwickeltes Sturmgewehr mit hoher Reichweite und starker Feuerkraft nach einem alten Bauplan entwickelt.\n\nDer moderne Versuch einer alternden Legende neuen Glanz zu verleihen.\n\nFeuert Vollmantelgeschosse im Zwischengliedkaliber ab.</Gun_ModernisedRuggedAssaultRifle.description>
+  <Gun_ModernisedRuggedAssaultRifle.tools.0.label>Gehäuse</Gun_ModernisedRuggedAssaultRifle.tools.0.label>
+  <Gun_ModernisedRuggedAssaultRifle.tools.1.label>Lauf</Gun_ModernisedRuggedAssaultRifle.tools.1.label>
+
+  <!-- Service Rifle -->
+  <Gun_ServiceRifle.label>Colt M4</Gun_ServiceRifle.label>
+  <Gun_ServiceRifle.description>Ein ausbalanciertes Sturmgewehr mit Direktaufprall nach einer alter Schablone angefertigt.\n\nFindet sich in den Händen unzähliger Soldaten zahlloser Welten wieder. Mit gutem Grund.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_ServiceRifle.description>
+  <Gun_ServiceRifle.tools.0.label>Gehäuse</Gun_ServiceRifle.tools.0.label>
+  <Gun_ServiceRifle.tools.1.label>Lauf</Gun_ServiceRifle.tools.1.label>
+
+  <!-- Balanced Bullpup Rifle -->
+  <Gun_BalancedBullpupRifle.label>Schultermagazin-Kompaktgewehr</Gun_BalancedBullpupRifle.label>
+  <Gun_BalancedBullpupRifle.description>Das gut ausbalancierte hebelverzögerte Sturmgewehr.\n\nDer Abwicklungsprozess der Waffe befindet sich hinter dem Auslöser, ohne dabei die Werklänge des Gewehrlaufes zu opfern, was es zu einer sehr kompakten und doch genauen Rarität macht.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_BalancedBullpupRifle.description>
+  <Gun_BalancedBullpupRifle.tools.0.label>Gehäuse</Gun_BalancedBullpupRifle.tools.0.label>
+  <Gun_BalancedBullpupRifle.tools.1.label>Lauf</Gun_BalancedBullpupRifle.tools.1.label>
+
+  <!-- Modernised Bullpup Rifle -->
+  <Gun_ModernisedBullpupRifle.label>Bullpup SAR</Gun_ModernisedBullpupRifle.label>
+  <Gun_ModernisedBullpupRifle.description>Das hebelverzögerte Sturmgewehr (Typ: Bullpup SAR) mit optischen Hilfsmitteln nach alter Waffentechnik erschaffen.\n\nDas Bedürfnis seiner Nutzer nach mehr Aufsätzen und besserer Zielerfassung spiegeln sich in diesem Unikat der Waffengeschichte wieder. Glücklicherweise war das Geld gut angelegt, denn noch Jahrhunderte nach dem Verschwinden des Herstellers wurden Varianten dieser Schusswaffe weiterverwendet.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_ModernisedBullpupRifle.description>
+  <Gun_ModernisedBullpupRifle.tools.0.label>Gehäuse</Gun_ModernisedBullpupRifle.tools.0.label>
+  <Gun_ModernisedBullpupRifle.tools.1.label>Lauf</Gun_ModernisedBullpupRifle.tools.1.label>
+
+  <!-- Light Combat Rifle -->
+  <Gun_LightCombatRifle.label>Multikaliber-Kampfgewehr</Gun_LightCombatRifle.label>
+  <Gun_LightCombatRifle.description>Das leichte Infanteriegewehr für kurze Entfernungen nach alter Konstruktionsart.\n\nEine unglaublich flexible Waffenplattform, die vorallem bei Söldnern und Sicherheitskräften sehr beliebt war.\n\nBringt Reflektorsicht und einen vertikalen Arm mit, um die Zielerfassung zu beschleunigen.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_LightCombatRifle.description>
+  <Gun_LightCombatRifle.tools.0.label>Gehäuse</Gun_LightCombatRifle.tools.0.label>
+  <Gun_LightCombatRifle.tools.1.label>Lauf</Gun_LightCombatRifle.tools.1.label>
+
+  <!-- Polymer Bullpup Rifle -->
+  <Gun_PolymerBullpupRifle.label>Polymer Sturmgewehr</Gun_PolymerBullpupRifle.label>
+  <Gun_PolymerBullpupRifle.description>Das verbesserte Sturmgewehr aus leichtem Polymer nach altem Muster für Spezialeinsatzkräfte angefertigt.\n\nVerfügt über ein Zielerfassungssystem mit minimaler Sichtvergrößerung.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_PolymerBullpupRifle.description>
+  <Gun_PolymerBullpupRifle.tools.0.label>Gehäuse</Gun_PolymerBullpupRifle.tools.0.label>
+  <Gun_PolymerBullpupRifle.tools.1.label>Lauf</Gun_PolymerBullpupRifle.tools.1.label>
+
+  <!-- Weighted Bullpup Rifle -->
+  <Gun_WeightedBullpupRifle.label>Schultermagazin-Kampfgewehr ACR</Gun_WeightedBullpupRifle.label>
+  <Gun_WeightedBullpupRifle.description>Das Sturmgewehr mit Schultermagazin und allerhand technischen Raffinessen strikt den alten Vorgaben der Waffenschmiedekunst folgend.\n\nTrotz seines hohen Gewichts hat sich diese Waffe eine guten Ruf mit seiner phänomenalen Präzision verdient. Verfügt über ein schweres Zielsuchsystem um seine effektive Reichweite zu erhöhen.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_WeightedBullpupRifle.description>
+  <Gun_WeightedBullpupRifle.tools.0.label>Gehäuse</Gun_WeightedBullpupRifle.tools.0.label>
+  <Gun_WeightedBullpupRifle.tools.1.label>Lauf</Gun_WeightedBullpupRifle.tools.1.label>
+
+  <!-- Prototype Rifle -->
+  <Bullet_280Brit.label>Zwischengliedkaliber Gewehrkugel</Bullet_280Brit.label>
+  <Gun_PrototypeRifle.label>Prototyp Sturmgewehr EM2</Gun_PrototypeRifle.label>
+  <Gun_PrototypeRifle.description>Die Reproduktion eines uralten Prototyps eines Sturmgewehrs, der zu Zeiten seiner Entstehung als Gipfel der Handfeuerwaffen-Industrie galt.\n\nDiese Schultermagazin-Konfiguration entspang neuesten technologischen Fortschritten, wird mit integrierter Zielerfassung geliefert und bietet höchste Präzision. Unglücklicherweise wurde die Entwicklung der Waffe wegen politischen Problemen um eine standardisierte Munitionierung der Soldaten eingestellt.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_PrototypeRifle.description>
+  <Gun_PrototypeRifle.tools.0.label>Gehäuse</Gun_PrototypeRifle.tools.0.label>
+  <Gun_PrototypeRifle.tools.1.label>Lauf</Gun_PrototypeRifle.tools.1.label>
+
+  <!-- Defence Rifle -->
+  <Bullet_762x51mmJ.label>Reduzierte Gewehrkugel</Bullet_762x51mmJ.label>
+  <Gun_DefenceRifle.label>Verteidiger KG</Gun_DefenceRifle.label>
+  <Gun_DefenceRifle.description>Ein vollautomatisches Kampfgewehr für kurze Entfernungen von unbekannter Herkunft.\n\nAuch wenn der Urheber unbekannt ist, so hat diese Waffe doch ihren Weg in gut situierte Siedlungen vieler Randwelten gefunden.\n\nFeuert Patronen mit reduzierter Kraft im Gewehrkaliber ab.</Gun_DefenceRifle.description>
+  <Gun_DefenceRifle.tools.0.label>Gehäuse</Gun_DefenceRifle.tools.0.label>
+  <Gun_DefenceRifle.tools.1.label>Lauf</Gun_DefenceRifle.tools.1.label>
+
+  <!-- Automatic Battle Rifle -->
+  <Gun_AutomaticBattleRifle.label>Modulares Gefechtsgewehr</Gun_AutomaticBattleRifle.label>
+  <Gun_AutomaticBattleRifle.description>Das extrem modulare Gefechtsgewehr für kurze Entfernungen nach antiker Konstruktionsweise.\n\nVon Veteranen vergangener Kriege bis hin zu ihrem Ursprung bei den Spezialeinsatzkräften überaus geschätzt, kommt dieses Exemplar mit der Option für automatisches Feuer direkt aus der Fabrik.\n\nBietet zudem verschiedenste Aufsatzmöglichkeiten und wechselt zwischen allen Kalibern.\n\nFeuert Patronen bis zum Gewehrkaliber ab.</Gun_AutomaticBattleRifle.description>
+  <Gun_AutomaticBattleRifle.tools.0.label>Gehäuse</Gun_AutomaticBattleRifle.tools.0.label>
+  <Gun_AutomaticBattleRifle.tools.1.label>Lauf</Gun_AutomaticBattleRifle.tools.1.label>
+
+  <!-- Heavy Combat Rifle -->
+  <Gun_HeavyCombatRifle.label>Schweres Infanteriegewehr</Gun_HeavyCombatRifle.label>
+  <Gun_HeavyCombatRifle.description>Das schwere Infanteriegewehr für kurze Entfernungen nach alter Bauart gefertigt.\n\nNach dem Fall einer schwer gerüsteten Glitzerwelt, sind abertausende dieser Waffen auf dem interstellaren Schwarzmarkt aufgetaucht und haben sich als verlässliche und flexible Waffenplattform eine ausgezeichnete Reputation aufgebaut.\n\nVerfügt über Reflektorsicht und einen vertikalen Arm um die Zielerfassung zu beschleunigen.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_HeavyCombatRifle.description>
+  <Gun_HeavyCombatRifle.tools.0.label>Gehäuse</Gun_HeavyCombatRifle.tools.0.label>
+  <Gun_HeavyCombatRifle.tools.1.label>Lauf</Gun_HeavyCombatRifle.tools.1.label>
+
+  <!-- Special Operations Rifle -->
+  <Gun_SpecialOperationsRifle.label>Modifizierte SCAR</Gun_SpecialOperationsRifle.label>
+  <Gun_SpecialOperationsRifle.description>Das extrem modulare Kampfgewehr (Typ: FN SCAR-H) modifiziert mit allerlei optischen Aufsätzen und technischen Spielereien nach antiker Konstruktionsweise.\n\nVerfügt über ein Laser-Modul, Reflektorsicht, optische Sichtvergrößerung und vertikalen Handgriff zur beschleunigten Zielerfassung sowie Reichweitenerhöhung.\n\nWechselt zwischen allen Kalibern. Feuert Patronen bis zum Gewehrkaliber ab.</Gun_SpecialOperationsRifle.description>
+  <Gun_SpecialOperationsRifle.tools.0.label>Gehäuse</Gun_SpecialOperationsRifle.tools.0.label>
+  <Gun_SpecialOperationsRifle.tools.1.label>Lauf</Gun_SpecialOperationsRifle.tools.1.label>
+
+  <!-- Rugged Light Support Weapon -->
+  <Gun_RuggedLMG.label>Supressionsgewehr</Gun_RuggedLMG.label>
+  <Gun_RuggedLMG.description>Ein leichtes Supressionsgewehr nach antiker Bauweise gefertigt.\n\nVon vielen wegen seiner hohen Verlässlichkeit heiß begehrt, ist er doch zu 90% baugleich gegenüber seinem kurzläufigeren älteren Bruder.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_RuggedLMG.description>
+  <Gun_RuggedLMG.tools.0.label>Gehäuse</Gun_RuggedLMG.tools.0.label>
+  <Gun_RuggedLMG.tools.1.label>Lauf</Gun_RuggedLMG.tools.1.label>
+
+  <!-- Compact Light Machine Gun -->
+  <Gun_CompactLightMachineGun.label>Unterstützungswaffe MK46</Gun_CompactLightMachineGun.label>
+  <Gun_CompactLightMachineGun.description>Ein kompaktes Maschinengewehr (Typ: MK46) zur Unterstützung durch Unterdrückungsfeuer mit spürbaren Rückstoß nach alter Vorlage.\n\nMit verzögertem Laufroll-Mechanismus und einem kürzeren Lauf als der Durchschnitt. Und auch wenn diese Waffe ihre besten Zeiten bereits hinter sich hat, stellt sie immernoch deutlich unter Beweis, welch eine zerstörerische Feuerkraft sie hat.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_CompactLightMachineGun.description>
+  <Gun_CompactLightMachineGun.tools.0.label>Gehäuse</Gun_CompactLightMachineGun.tools.0.label>
+  <Gun_CompactLightMachineGun.tools.1.label>Lauf</Gun_CompactLightMachineGun.tools.1.label>
+
+  <!-- Polymer Light Support Weapon -->
+  <Gun_PolymerLightSupportWeapon.label>Steyr AUG</Gun_PolymerLightSupportWeapon.label>
+  <Gun_PolymerLightSupportWeapon.description>Das leichte Kompaktgewehr (Typ: Steyr AUG) aus Polymer zur Unterstützung bei Feld- und Stadteinsätzen nach alter Machart.\n\nDer Abwicklungsprozess der Waffe befindet sich hinter dem Auslöser, ohne dabei die Werklänge des Gewehrlaufs zu opfern, was es zu einer sehr kompakten und doch präzisen Rarität macht, auch da sie weniger in Konflikten und doch eher in den Händen von Sammlern ihr Zuhause fand.\n\nBesitzt als besonderes Merkmal ein Zielerfassungssystem mit minimaler Sichtvergrößerung.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_PolymerLightSupportWeapon.description>
+  <Gun_PolymerLightSupportWeapon.tools.0.label>Gehäuse</Gun_PolymerLightSupportWeapon.tools.0.label>
+  <Gun_PolymerLightSupportWeapon.tools.1.label>Lauf</Gun_PolymerLightSupportWeapon.tools.1.label>
+
+  <!-- Infantry Automatic Rifle -->
+  <Gun_InfantryAutomaticRifle.label>Infanterie-Waffenplattform</Gun_InfantryAutomaticRifle.label>
+  <Gun_InfantryAutomaticRifle.description>Das schwerste Infanteriegewehr für kurze Entfernungen. Erste wirkliche Waffenplattform und ein Manifest antiker Waffengeschichte für taktische Einsatzwaffen.\n\nBerühmt für das dynamische Umschalten von Hohlspitz- zu Vollmantelgeschossen, wenn sich zu starke Hitze beim automatischen Feuer entwickelt.\n\nDurchdringte dickste Panzerung. Verfügt über Reflektorsicht und einen vertikalen Arm um die Zielerfassung zu beschleunigen.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_InfantryAutomaticRifle.description>
+  <Gun_InfantryAutomaticRifle.tools.0.label>Gehäuse</Gun_InfantryAutomaticRifle.tools.0.label>
+  <Gun_InfantryAutomaticRifle.tools.1.label>Lauf</Gun_InfantryAutomaticRifle.tools.1.label>
+
+  <!-- Weighted Light Support Weapon -->
+  <Gun_WeightedLightSupportWeapon.label>Taktische Einsatzwaffe M249</Gun_WeightedLightSupportWeapon.label>
+  <Gun_WeightedLightSupportWeapon.description>Eine Unterstützungswaffe für weite Entfernungen in Form eines schweren Infanteriegewehrs mit Stellwerk und Magazinkoffer nach alter Bauweise.\n\nMan lernte zur damligen Zeit schnell, daß diese durchschlagskräftige Waffe ein wahrer Segen für jede Truppenbewegung ist. So wurde ihre Waffengattung zum festen Bestandteil militärischer Spezialausrüstung.\n\nFeuert Patronen im Zwischengliedkaliber ab.</Gun_WeightedLightSupportWeapon.description>
+  <Gun_WeightedLightSupportWeapon.tools.0.label>Gehäuse</Gun_WeightedLightSupportWeapon.tools.0.label>
+  <Gun_WeightedLightSupportWeapon.tools.1.label>Lauf</Gun_WeightedLightSupportWeapon.tools.1.label>
+
+  <!-- Vintage Light Machine Gun -->
+  <Gun_VintageLightMachineGun.label>BAR</Gun_VintageLightMachineGun.label>
+  <Gun_VintageLightMachineGun.description>Ein leichtes Infanteriegewehr (Typ: Browning) für weite Entfernungen mit ordentlich Eff&#233; nach altertümlicher Machart gefertigt.\n\nZunächst von der Luftwaffe zu Felde geführt, stellen diese Waffen die Großväter von effizienter, tragbarer und automatischer Feuerkraft dar. Bis heute sind sie bei Sammlern entfernter Glitzerwelten sehr beliebt.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_VintageLightMachineGun.description>
+  <Gun_VintageLightMachineGun.tools.0.label>Gehäuse</Gun_VintageLightMachineGun.tools.0.label>
+  <Gun_VintageLightMachineGun.tools.1.label>Lauf</Gun_VintageLightMachineGun.tools.1.label>
+
+  <!-- Vintage GPMG -->
+  <Gun_VintageGPMG.label>Mehrzweck-Maschinengewehr</Gun_VintageGPMG.label>
+  <Gun_VintageGPMG.description>Das schwere Mehrzweck-Maschinengewehr mit doppeltem Standfuß und entsprechender Gürtelkammer zum Stahl fressen. Konzeptioniert nach antiker Konstrukionsweise.\n\nSelbst nach 3000 Jahren der technologischen Entwicklung können Ballistik-Waffen ihre Abstammung bis zu diesem Design zurückführen. Dieses Exemplar wurde von einem Waffenschmied einer weit entfernten Glitzerwelt gefertigt, doch wie es hierher gelang, bleibt ein Mysterium.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_VintageGPMG.description>
+  <Gun_VintageGPMG.tools.0.label>Gehäuse</Gun_VintageGPMG.tools.0.label>
+  <Gun_VintageGPMG.tools.1.label>Lauf</Gun_VintageGPMG.tools.1.label>
+
+  <!-- GPMG -->
+  <Gun_GPMG.label>Universalgewehr M60</Gun_GPMG.label>
+  <Gun_GPMG.description>Ein Mehrzweck-Maschinengewehr (Typ: Rambo) universal für jedes Einsatzgebiet und Krisengebiet geschaffen. Entworfen nach der alten Waffenkunst.\n\nZur seiner Zeit noch bevorzugte man leichtere Schusswaffen mit kleinerem Kaliber, dies änderte sich jedoch im Laufe der Geschichte, durch die wachsende Anzahl an schwer gepanzerten Soldatenverbänden moderner Schlachtfelder. Und so wurde sie am Ende doch noch zur ersten Wahl um über die neuen Gegebenheiten Herr zuwerden.\n\nKann auf einem Tripod befestigt werden und entfesselt so eine wahre Feuersbrunst.\n\nFeuert Patronen höchster Güteklasse im Gewehrkaliber ab.</Gun_GPMG.description>
+  <Gun_GPMG.tools.0.label>Gehäuse</Gun_GPMG.tools.0.label>
+  <Gun_GPMG.tools.1.label>Lauf</Gun_GPMG.tools.1.label>
+
+  <!-- Breech-loading Sniper -->
+  <Gun_BreechLoadingSniper.label>Zylinderkopfgewehr</Gun_BreechLoadingSniper.label>
+  <Gun_BreechLoadingSniper.description>Ein Hinterlader mit rotierendem Trommelmagazin nach altertümlicher Blaupause.\n\nÖffnet sich nach innen um neu munitoniert zu werden.\n\nFeuert für ein Gewehrkaliber überdurchschnittlich große Patronen ab.</Gun_BreechLoadingSniper.description>
+  <Gun_BreechLoadingSniper.tools.0.label>Gehäuse</Gun_BreechLoadingSniper.tools.0.label>
+  <Gun_BreechLoadingSniper.tools.1.label>Lauf</Gun_BreechLoadingSniper.tools.1.label>
+
+  <!-- Lever-Action Rifle Sniper -->
+  <Bullet_45LongS.label>Hohlspitzpatrone</Bullet_45LongS.label>
+  <Gun_LeverActionSniper.label>Streicher</Gun_LeverActionSniper.label>
+  <Gun_LeverActionSniper.description>Ein robustes Präzisionsgewehr (Typ: Streicher) mit Seitenhebel zum Nachfüllen des Patronenschachts nach uralter Konstruktionsart.\n\nDer absolute Favorit jeden Profis. Sauber und präzise. Durchschlägt so gut wie sämtliche Körperpanzer.\n\nFeuert Patronen höchster Güteklasse in Gewehrkalibergröße ab.</Gun_LeverActionSniper.description>
+  <Gun_LeverActionSniper.tools.0.label>Gehäuse</Gun_LeverActionSniper.tools.0.label>
+  <Gun_LeverActionSniper.tools.1.label>Lauf</Gun_LeverActionSniper.tools.1.label>
+
+  <!-- Recon Rifle -->
+  <Bullet_762x51mmM.label>Vollmantelgeschoss</Bullet_762x51mmM.label>
+  <Gun_ReconRifle.label>AWP</Gun_ReconRifle.label>
+  <Gun_ReconRifle.description>Ein militärisches Aufklärungsgewehr mit unwahrscheinlich hoher Durchschlagskraft und bestmöglicher Präzision geschaffen nach uralter Vorlage.\n\nUrsprünglich für die artkische Kriegsführung gedacht, war sie auch noch nach der Kolonialisierung entfernter Eiswelten im stetigen Gebrauch.\n\nMit einem speziellen Squad Support Zielfernrohr ausgestattet.\n\nFeuert Patronen höchster Güteklasse im Gewehrkaliber ab.</Gun_ReconRifle.description>
+  <Gun_ReconRifle.tools.0.label>Gehäuse</Gun_ReconRifle.tools.0.label>
+  <Gun_ReconRifle.tools.1.label>Lauf</Gun_ReconRifle.tools.1.label>
+
+  <!-- Rugged Marksman's Rifle -->
+  <Bullet_762x54mmR.label>Vollmantel Gewehrkaliber</Bullet_762x54mmR.label>
+  <Gun_RuggedMarksmansRifle.label>Autom. Scharfschützengewehr</Gun_RuggedMarksmansRifle.label>
+  <Gun_RuggedMarksmansRifle.description>Das automatische Scharfschützengewehr für mittlere Distanzen der antiken Waffenkunst.\n\nZur Aufklärung und Unterstützung konzeptioniert. Im Vergleich zu seinen Zeitgenossen fehlt es der Waffe an Genauigkeit, aber die Feuerrate bei stabilisierter Sicht lässt nichts zu wünschen übrig.\n\nFeuert Patronen im Gewehrkaliber ab.</Gun_RuggedMarksmansRifle.description>
+  <Gun_RuggedMarksmansRifle.tools.0.label>Gehäuse</Gun_RuggedMarksmansRifle.tools.0.label>
+  <Gun_RuggedMarksmansRifle.tools.1.label>Lauf</Gun_RuggedMarksmansRifle.tools.1.label>
+
+  <!-- Vintage Sniper -->
+  <Gun_VintageSniper.label>Mammuth Jagdgewehr</Gun_VintageSniper.label>
+  <Gun_VintageSniper.description>Das Scharfschützengewehr (Typ: Mammuthjäger) für weite Distanzen nach sehr alter Waffenkunde geschaffen.\n\nBenutzt Patronen mit Spezialhülsen im Gewehrkaliber.</Gun_VintageSniper.description>
+  <Gun_VintageSniper.tools.0.label>Gehäuse</Gun_VintageSniper.tools.0.label>
+  <Gun_VintageSniper.tools.1.label>Lauf</Gun_VintageSniper.tools.1.label>
+
+  <!-- Special Purpose Rifle -->
+  <Bullet_556x45mmM.label>Vollmantelgeschoss</Bullet_556x45mmM.label>
+  <Gun_SpecialPurposeRifle.label>Multifunktionsgewehr</Gun_SpecialPurposeRifle.label>
+  <Gun_SpecialPurposeRifle.description>Frühes multifunktionales Scharfschützengewehr mit Schwebelauf und Direktaufprall nach bewehrtem Muster.\n\nEntworfen um Präzision auf Entfernung zu bieten, erfüllt diese Waffe ihre Niesche vollends. Mit bemerkenswerter Leistung werden Anforderungen an das ideale Scharfschützengewehr nicht nur erfüllt; Nein, sie werden sogar übertroffen!\n\nFeuert eigens angefertigte Patronen höchster Güteklasse in Zwischengliedkalibergröße ab.</Gun_SpecialPurposeRifle.description>
+  <Gun_SpecialPurposeRifle.tools.0.label>Gehäuse</Gun_SpecialPurposeRifle.tools.0.label>
+  <Gun_SpecialPurposeRifle.tools.1.label>Lauf</Gun_SpecialPurposeRifle.tools.1.label>
+
+  <!-- Sniper Support Rifle -->
+  <Gun_SniperSupportRifle.label>Aufklärungsgewehr</Gun_SniperSupportRifle.label>
+  <Gun_SniperSupportRifle.description>Ein militärisches Aufklärungsgewehr mit Halbautomatik für kurze Entfernungen nach antiker Konstruktionsweise.\n\nFrüher hieß es ein halbautomatisches Gewehr könne niemals die Präzision eines Bolzenschussgewehres erreichen. Bis zu dem Punkt als dieses Modell vorgestellt wurde.\n\nWegen seines Arbeitsaufwands und der teuren Produktion wurde es hauptsächlich von Spezialeinheiten und von Truppen zum Niederschlagen von Aufständen verwendet. Dies hielt es jedoch nicht davon ab, schließlich auch in die Hände der bösen Jungs zu fallen.\n\nBietet als besonderdere Merkmale einen vertikalen Griff, Bipod-Standfuß, justierbaren Munitionsschacht, Schwebelauf, Präzisionszielfernrohr und Spezialmunition für die bestmögliche Treffersicherheit.\n\nFeuert eigens angefertigte Patronen höchster Güteklasse in Gewehrkalibergröße ab.</Gun_SniperSupportRifle.description>
+  <Gun_SniperSupportRifle.tools.0.label>Gehäuse</Gun_SniperSupportRifle.tools.0.label>
+  <Gun_SniperSupportRifle.tools.1.label>Lauf</Gun_SniperSupportRifle.tools.1.label>
+
+  <!-- Anti-Materiel Rifle -->
+  <Bullet_AntiMateriel.label>Großkaliber Gewehrkugel</Bullet_AntiMateriel.label>
+  <Gun_AntiMaterielRifle.label>Personalisierte AMG</Gun_AntiMaterielRifle.label>
+  <Gun_AntiMaterielRifle.description>Ein personalisiertes Anti-Materie Gewehr nach antiker Baukunst geschaffen um verschiedenste Materialien und Gewebe zu durchdringen. Es kann sogar leichte Vehikel zerstören.\n\nNett, für jeden der darauf steht jemanden mit einem Schuss von einem anderen Planeten aus zu enthaupten. Dieses durchschlagskräftige Design büßt jedoch etwas an Genauigkeit ein.\n\nFeuert eigens angefertigte Patronen höchster Güteklasse in Gewehrkalibergröße ab.</Gun_AntiMaterielRifle.description>
+  <Gun_AntiMaterielRifle.tools.0.label>Gehäuse</Gun_AntiMaterielRifle.tools.0.label>
+  <Gun_AntiMaterielRifle.tools.1.label>Lauf</Gun_AntiMaterielRifle.tools.1.label>
+
+</LanguageData>
